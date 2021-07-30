@@ -7,6 +7,10 @@
   - SPCC [Assignment - 2](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Assignments/Amey_B-50_SPCC_Assignment-2.pdf)
   - SPCC [Assignment - 3](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Assignments/Amey_B-50_SPCC_Assignment-3.pdf)
 
+## Classwork
+
+  - SPCC Presentation | [Linker & Loader](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Classwork/SPCC_PRESENTATION_B-50%2C51%2C58.pdf)
+
 ## Experiments
 
   >System Software Lab
