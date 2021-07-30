@@ -15,15 +15,16 @@
 
   >System Software Lab
 
-  - SSL [Experiment - 1](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-1.pdf)
-  - SSL [Experiment - 2](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-2.pdf)
-  - SSL [Experiment - 3](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-3.pdf)
-  - SSL [Experiment - 4](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-4.pdf)
-  - SSL [Experiment - 5](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-5.pdf)
-  - SSL [Experiment - 6](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-6.pdf)
-  - SSL [Experiment - 7](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-7.pdf)
-  - SSL [Experiment - 8](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-8.pdf)
-  - SSL [Experiment - 9](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-9.pdf)
+  - SSL [Experiment - 1](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-1.pdf) | [Source Code](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Experiments/Programs/SPCC-1)
+  - SSL [Experiment - 2](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-2.pdf) | [Source Code](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Experiments/Programs/SPCC-2)
+  - SSL [Experiment - 3](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-3.pdf) | [Source Code](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Experiments/Programs/SPCC-3)
+  - SSL [Experiment - 4](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-4.pdf) | [Source Code](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Experiments/Programs/SPCC-4)
+  - SSL [Experiment - 5](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-5.pdf) | [Source Code](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Experiments/Programs/SPCC-5)
+  - SSL [Experiment - 6](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-6.pdf) | [Source Code](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Experiments/Programs/SPCC-6)
+  - SSL [Experiment - 7](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-7.pdf) | [Source Code](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Experiments/Programs/SPCC-7)
+  - SSL [Experiment - 8](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-8.pdf) | [Source Code](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Experiments/Programs/SPCC-8)
+  - SSL [Experiment - 9](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-9.pdf) | [Source Code](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Experiments/Programs/SPCC-9)
+  - SSL [Experiment - 10](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Experiments/Programs/SPCC-10) | [Source Code](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Experiments/Programs/SPCC-10)
 
 ## Submission Report
 
