@@ -1,0 +1,6 @@
+S ABCDE 
+A a|0
+B b|0
+C c
+D d|0
+E e|0

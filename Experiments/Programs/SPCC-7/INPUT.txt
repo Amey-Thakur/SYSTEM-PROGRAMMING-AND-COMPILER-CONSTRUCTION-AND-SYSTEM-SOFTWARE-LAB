@@ -1,0 +1,10 @@
+copy    START   1000
+-       LDA     ALPHA
+-       ADD     ONE
+-       SUB     TWO
+-       STA     BETA
+ALPHA   BYTE    C'KLNCE
+ONE     RESB    2
+TWO     WORD    5
+BETA    RESW    1
+_       END     _
