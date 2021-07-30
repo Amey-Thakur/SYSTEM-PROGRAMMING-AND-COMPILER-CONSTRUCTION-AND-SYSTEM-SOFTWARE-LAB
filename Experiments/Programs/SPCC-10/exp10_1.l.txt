@@ -1,0 +1,12 @@
+%{
+#include<stdio.h>
+%}
+%%
+[0-9]+ {
+printf("\nInteger:%s\n",yytext);
+}
+%%
+int main(void)
+{yylex();
+return 0;
+}
