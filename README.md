@@ -9,7 +9,7 @@
 
 ## Classwork
 
-  - SPCC Presentation | [Linker & Loader](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Classwork/SPCC_PRESENTATION_B-50%2C51%2C58.pdf)
+  - SPCC Presentation | [Linker & Loader](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Classwork/SPCC_PRESENTATION_B-50%2C51%2C58.pdf) | [Presentation](http://dx.doi.org/10.13140/RG.2.2.10804.78729)
 
 ## Experiments
 
