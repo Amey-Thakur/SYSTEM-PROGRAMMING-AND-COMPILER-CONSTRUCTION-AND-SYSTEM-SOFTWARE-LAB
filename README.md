@@ -1,12 +1,5 @@
-# SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB
+# SYSTEM PROGRAMMING & COMPILER CONSTRUCTION AND SYSTEM SOFTWARE LAB
  SPCC & SSL [SEMESTER VI]
-
----
- 
- - [X] **[Syllabus](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/blob/main/Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**
- - [X] **SE - [Reference Books](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/tree/main/Reference%20Books)**
-
----
 
 ## Assignments
 
