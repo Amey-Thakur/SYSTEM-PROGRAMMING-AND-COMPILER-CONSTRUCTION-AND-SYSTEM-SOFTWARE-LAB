@@ -4,7 +4,7 @@
 ---
  
  - [X] **[Syllabus](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**
- - [X] **SE - [Reference Books](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Reference%20Books)**
+ - [X] **SPCC - [Reference Books](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Reference%20Books)**
 
 ---
 
