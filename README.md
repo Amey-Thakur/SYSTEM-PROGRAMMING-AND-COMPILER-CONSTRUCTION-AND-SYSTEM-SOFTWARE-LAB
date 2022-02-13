@@ -1,5 +1,17 @@
-# SYSTEM PROGRAMMING & COMPILER CONSTRUCTION AND SYSTEM SOFTWARE LAB
- SPCC & SSL [SEMESTER VI]
+# SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB
+ CSC602: SPCC & CSL602: SSL [SEMESTER VI]
+
+---
+ 
+ - [X] **[Syllabus](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**
+ - [X] **SE - [Reference Books](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Reference%20Books)**
+
+---
+
+## My Preparation
+
+ - [Blueprint](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Blueprint%20(SPCC).png)
+ - [Semester 6 Timetable](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/SEMESTER%20VI.jpeg)
 
 ## Assignments
 
@@ -25,6 +37,28 @@
   - SSL [Experiment - 8](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-8.pdf) | [Source Code](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Experiments/Programs/SPCC-8)
   - SSL [Experiment - 9](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Experiments/Amey_B-50_SPCC_Lab_Experiment-9.pdf) | [Source Code](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Experiments/Programs/SPCC-9)
   - SSL [Experiment - 10](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Experiments/Programs/SPCC-10) | [Source Code](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Experiments/Programs/SPCC-10)
+
+## Quizzes
+
+  - SPCC [Quiz - 1](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Quizzes/Quiz%201%20-%20TE%20SPCC.pdf)
+  - SPCC [Quiz - 6](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Quizzes/Quiz%206%20-%20TE%20SPCC.pdf)
+
+## Mock Test
+
+ - [Technical Mock Test](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Technical%20Mock%20Test-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners!.pdf)
+
+## Internal Assessment Test
+
+ - SPCC [IAT - 1](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Internal%20Assessment%20Test/Amey_B-50_SPCC_IAT-1.pdf)
+ - SPCC [IAT - 2](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Internal%20Assessment%20Test/AMEY_B-50_SPCC_IAT-2.pdf)
+
+## Semester Exam
+
+ - SPCC Answersheet - [Q2](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Semester%20Exam/Q2_61021145_SPCC.pdf) | [Q3](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/blob/main/Semester%20Exam/Q3_61021145_SPCC.pdf)
+
+## Question Papers
+
+ - [Previous Question Papers](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/Question%20Papers)
 
 ## Submission Report
 
