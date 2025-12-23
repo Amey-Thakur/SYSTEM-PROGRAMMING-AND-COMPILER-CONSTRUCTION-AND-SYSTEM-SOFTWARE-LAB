@@ -161,15 +161,24 @@ Subject-specific quizzes conducted during the course:
 
 The laboratory component (CSL602) focuses on hands-on implementation of system software components including assemblers, lexical analyzers, and parsers using C and tools like LEX/YACC.
 
-<div align="center">
-
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](System%20Software%20Lab/)
-  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](System%20Software%20Lab/)
-
-</div>
+![Total Experiments](https://img.shields.io/badge/Total_Experiments-9-yellowgreen?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 > [!TIP]
-> **Lab Concept**: System software development requires a strong grasp of data structures like Symbol Tables and Literal Tables. When working with LEX and YACC, always ensure your regular expressions and grammars are well-tested for edge cases.
+> **Lab Concept**: System software development requires a strong grasp of data structures like Symbol Tables and Literal Tables. When working with LEX and YACC, always ensure your regular expressions and grammars are well-tested before integration.
+
+**[📂 View Detailed Laboratory Documentation](System%20Software%20Lab/)**
+
+| # | Experiment | Description | Marks | Report |
+|:-:|:---|:---|:---:|:-:|
+| 1 | **Lexical Analyzer using Finite Automata** | Develop a program to implement lexical analyzer using Finite Automata | 9/10 | [View](System%20Software%20Lab/Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) |
+| 2 | **Lexical Analyzer using LEX** | Implement Lexical Analyzer for given language using Lex tool | 7/10 | [View](System%20Software%20Lab/Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) |
+| 3 | **Left Recursion and FIRST/FOLLOW** | Implement program to remove left recursion from grammar and find first and follow | 8/10 | [View](System%20Software%20Lab/Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) |
+| 4 | **Parsing Techniques** | Implement any parsing technique | 8/10 | [View](System%20Software%20Lab/Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) |
+| 5 | **Code Optimization** | Implement any code optimization techniques | 8/10 | [View](System%20Software%20Lab/Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) |
+| 6 | **Target Code Generation** | Generate target code | 8/10 | [View](System%20Software%20Lab/Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) |
+| 7 | **Assembler Pass-I** | Design and implement first pass of a two pass assembler for IBM 360/370 Processor | 8/10 | [View](System%20Software%20Lab/Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) |
+| 8 | **Assembler Pass-II** | Design and implement second pass of a two pass assembler for IBM 360/370 Processor | 7/10 | [View](System%20Software%20Lab/Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) |
+| 9 | **Two Pass Macro Processor** | Design and Implement two pass Macro Processor | 8/10 | [View](System%20Software%20Lab/Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) |
 
 ### Program Details
 
