@@ -36,7 +36,7 @@ Implementation of Symbol Table using C to manage identifiers and their propertie
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) | Detailed experiment report | [View](Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) |
-| 💻 | [Source Code](Experiment-1/Program/SPCC-1.c) | C implementation for Symbol Table | [View](Experiment-1/Program/SPCC-1.c) |
+| 💻 | [Source Code](Experiment-1/Source Code/SPCC-1.c) | C implementation for Symbol Table | [View](Experiment-1/Source Code/SPCC-1.c) |
 
 ---
 
@@ -50,7 +50,7 @@ Scanner development using LEX tool to identify tokens in a source program.
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) | Detailed experiment report | [View](Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) |
-| 💻 | [Source Code](Experiment-2/Program/SPCC-2.l) | LEX implementation for scanner | [View](Experiment-2/Program/SPCC-2.l) |
+| 💻 | [Source Code](Experiment-2/Source Code/SPCC-2.l) | LEX implementation for scanner | [View](Experiment-2/Source Code/SPCC-2.l) |
 
 ---
 
@@ -64,7 +64,7 @@ Implementation of Recursive Descent Parser for syntax analysis of grammars.
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) | Detailed experiment report | [View](Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) |
-| 💻 | [Source Code](Experiment-3/Program/SPCC-3.c) | C implementation for RD Parser | [View](Experiment-3/Program/SPCC-3.c) |
+| 💻 | [Source Code](Experiment-3/Source Code/SPCC-3.c) | C implementation for RD Parser | [View](Experiment-3/Source Code/SPCC-3.c) |
 
 ---
 
@@ -78,7 +78,7 @@ Three-address code generation implementation for arithmetic expressions.
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) | Detailed experiment report | [View](Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) |
-| 💻 | [Source Code](Experiment-4/Program/SPCC-4.c) | C implementation for TAC generation | [View](Experiment-4/Program/SPCC-4.c) |
+| 💻 | [Source Code](Experiment-4/Source Code/SPCC-4.c) | C implementation for TAC generation | [View](Experiment-4/Source Code/SPCC-4.c) |
 
 ---
 
@@ -92,7 +92,7 @@ Implementation of constant folding and common sub-expression elimination techniq
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) | Detailed experiment report | [View](Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) |
-| 💻 | [Source Code](Experiment-5/Program/SPCC-5.c) | C implementation for optimizations | [View](Experiment-5/Program/SPCC-5.c) |
+| 💻 | [Source Code](Experiment-5/Source Code/SPCC-5.c) | C implementation for optimizations | [View](Experiment-5/Source Code/SPCC-5.c) |
 
 ---
 
@@ -106,7 +106,7 @@ Implementation of One-pass Assembler logic including LC and Symbol Table.
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) | Detailed experiment report | [View](Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) |
-| 💻 | [Source Code](Experiment-6/Program/SPCC-6.c) | C implementation for Assembler PASS-I | [View](Experiment-6/Program/SPCC-6.c) |
+| 💻 | [Source Code](Experiment-6/Source Code/SPCC-6.c) | C implementation for Assembler PASS-I | [View](Experiment-6/Source Code/SPCC-6.c) |
 
 ---
 
@@ -120,7 +120,7 @@ Design and implementation of Multi-pass Assembler to generate object code.
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) | Detailed experiment report | [View](Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) |
-| 💻 | [Source Code](Experiment-7/Program/SPCC-7.c) | C implementation for Assembler PASS-II | [View](Experiment-7/Program/SPCC-7.c) |
+| 💻 | [Source Code](Experiment-7/Source Code/SPCC-7.c) | C implementation for Assembler PASS-II | [View](Experiment-7/Source Code/SPCC-7.c) |
 
 ---
 
@@ -134,7 +134,7 @@ Design of two-pass Macro Processor with MNT and MDT management.
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) | Detailed experiment report | [View](Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) |
-| 💻 | [Source Code](Experiment-8/Program/SPCC-8.c) | C implementation for Macro Processor | [View](Experiment-8/Program/SPCC-8.c) |
+| 💻 | [Source Code](Experiment-8/Source Code/SPCC-8.c) | C implementation for Macro Processor | [View](Experiment-8/Source Code/SPCC-8.c) |
 
 ---
 
@@ -148,7 +148,7 @@ Simulation of Direct-linking Loader for program relocation and linking.
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) | Detailed experiment report | [View](Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) |
-| 💻 | [Source Code](Experiment-9/Program/SPCC-9.c) | C implementation for Loader simulation | [View](Experiment-9/Program/SPCC-9.c) |
+| 💻 | [Source Code](Experiment-9/Source Code/SPCC-9.c) | C implementation for Loader simulation | [View](Experiment-9/Source Code/SPCC-9.c) |
 
 ---
 
@@ -162,7 +162,7 @@ Parser development using YACC tool for various grammatical structures.
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📂 | [Report Folder](Experiment-10/) | Detailed experiment documents | [View](Experiment-10/) |
-| 💻 | [Source Code](Experiment-10/Program/) | YACC implementation for parser | [View](Experiment-10/Program/) |
+| 💻 | [Source Code](Experiment-10/Source Code/) | YACC implementation for parser | [View](Experiment-10/Source Code/) |
 
 ---
 
