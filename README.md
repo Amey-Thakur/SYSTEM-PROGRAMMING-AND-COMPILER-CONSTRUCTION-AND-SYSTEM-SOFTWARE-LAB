@@ -118,6 +118,10 @@ Academic assignments for comprehensive learning and practice:
      ========================================================================================= -->
 ### Classwork
 
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to [Mega Satish](https://github.com/msatmod) and [Hasan Rizvi](https://github.com/rizvihasan) for their meaningful contributions, support, and wisdom that helped shape this work.*
+
 Educational presentations and collaborative work:
 
 | Resource | Description | Research Link |
@@ -125,10 +129,6 @@ Educational presentations and collaborative work:
 | **SPCC Presentation** | Linker & Loader architecture and functionality | [Presentation](http://dx.doi.org/10.13140/RG.2.2.10804.78729) |
 | [PPTX](Classwork/SPCC_PRESENTATION_B-50,51,58.pptx) | Original presentation file (PowerPoint) | — |
 | [PDF](Classwork/SPCC_PRESENTATION_B-50,51,58.pdf) | Presentation document version | — |
-
-> [!IMPORTANT]
-> ### 🤝🏻 Special Acknowledgement
-> *Special thanks to [Mega Satish](https://github.com/msatmod) and [Hasan Rizvi](https://github.com/rizvihasan) for their meaningful contributions, support, and wisdom that helped shape this work.*
 
 ---
 
