@@ -231,6 +231,59 @@ Parser development using YACC tool for various grammatical structures.
 ---
 
 <!-- =========================================================================================
+                                     HOW TO USE SECTION
+     ========================================================================================= -->
+## 🚀 How to Use
+
+### Running C Programs
+1. **Navigate** to the desired experiment folder.
+2. **Open** the `.c` file.
+3. **Compile** using: `gcc filename.c -o output`
+4. **Run** using: `./output`
+
+**Example:**
+```bash
+cd "Experiment-1/Source Code"
+gcc DFA_Implementation.c -o DFA
+./DFA
+```
+
+### Running LEX Programs
+1. **Navigate** to the experiment folder.
+2. **Generate** C code: `flex filename.l`
+3. **Compile** with library: `gcc lex.yy.c -o scanner -lfl`
+4. **Run** using: `./scanner`
+
+**Example:**
+```bash
+cd "Experiment-2/Source Code"
+flex Lex_Lexical_Analyzer.l
+gcc lex.yy.c -o lexer -lfl
+./lexer
+```
+
+---
+
+<!-- =========================================================================================
+                                     LEARNING PATH SECTION
+     ========================================================================================= -->
+## 📖 Learning Path
+
+**Beginner Level:**
+- Start with **Experiment 1** to understand DFA implementation and Symbol Table concepts.
+- Practice **Experiment 2** for both automated (LEX) and manual lexical analysis approaches.
+
+**Intermediate Level:**
+- Explore **Experiments 3 & 4** to master parsing techniques (FIRST/FOLLOW sets, Recursive Descent Parsing).
+- Study **Experiments 5 & 6** for code optimization and target code generation strategies.
+
+**Advanced Level:**
+- Dive into **Experiments 7 & 8** for comprehensive two-pass assembler design (Symbol Table generation and Object Code synthesis).
+- Master **Experiments 9 & 10** for Macro Processing and advanced LEX/YACC tool usage.
+
+---
+
+<!-- =========================================================================================
                                      FOOTER SECTION
      ========================================================================================= -->
 <div align="center">
