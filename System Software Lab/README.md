@@ -76,12 +76,12 @@ Implementation of FIRST and FOLLOW sets calculation for syntax analysis of gramm
      ========================================================================================= -->
 ## 🚦 Experiment 4: Intermediate Code Generation
 
-Three-address code generation implementation for arithmetic expressions.
+Implementation of Recursive Descent Parser for syntax analysis of grammars.
 
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) | Detailed experiment report | [View](Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) |
-| 💻 | [Source Code](Experiment-4/Source Code/SPCC-4.c) | C implementation for TAC generation | [View](Experiment-4/Source Code/SPCC-4.c) |
+| 💻 | [Source Code](Experiment-4/Source Code/RD_Parser_Implementation.c) | C implementation for RD Parser | [View](Experiment-4/Source Code/RD_Parser_Implementation.c) |
 
 ---
 
