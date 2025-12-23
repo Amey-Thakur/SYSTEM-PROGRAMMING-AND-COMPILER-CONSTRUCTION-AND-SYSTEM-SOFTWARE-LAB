@@ -319,7 +319,7 @@ Internal assessment evaluations conducted during the course:
 |:-:|:---|:---|:---:|
 | 1 | [Question Paper](Internal%20Assessment%20Test/43IAT-1_SPCC_Descriptive_Questions.pdf) | SPCC Internal Assessment Test 1 Question Paper | — |
 | 2 | [MCQ](Internal%20Assessment%20Test/SPCC-MCQ.png) | SPCC Internal Assessment Test 1 MCQ | 10/10 |
-| 3 | [Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_SPCC_IAT-1.pdf) | SPCC Internal Assessment Test 1 Answer Sheet | 19/20 |
+| 3 | [Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_SPCC_IAT-1.pdf) | SPCC Internal Assessment Test 1 Answer Sheet | 18/20 |
 
 ### IAT - 2
 
