@@ -129,6 +129,17 @@ Academic assignments for comprehensive learning and practice:
 > ### 🤝🏻 Special Acknowledgement
 > *Special thanks to [Mega Satish](https://github.com/msatmod) and [Hasan Rizvi](https://github.com/rizvihasan) for their meaningful contributions, support, and wisdom that helped shape this work.*
 
+### Presentation Overview
+
+A comprehensive presentation on **Linker and Loader** covering the translation hierarchy and program execution flow in system software. The presentation explores:
+
+- **Translation Hierarchy**: Compiler, Assembler, and the flow from high-level language to machine code
+- **Linker**: A program that links and merges object files to create an executable, performing symbol resolution and determining memory locations
+- **Loader**: A program that loads linked modules into main memory for execution, replacing virtual addresses with physical addresses
+- **Functions of Loader**: Allocation, Linking, Relocation, and Loading
+- **Loading Schemes**: Compile & Go Loading Scheme vs General Loading Scheme
+- **Types of Loaders**: Absolute Loaders and Relocatable Loaders
+
 > [!NOTE]
 > **Research Impact**: This presentation was published on **ResearchGate** and is available for academic reference.
 > - [Presentation @ResearchGate](https://doi.org/10.13140/RG.2.2.10804.78729)
