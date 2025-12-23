@@ -237,7 +237,7 @@ Parser development using YACC tool for various grammatical structures.
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[⬆ Back to Top](#system-software-lab)**
+  **[↑ Back to Top](#system-software-lab)**
 
   **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-symbol-table-implementation)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-lexical-analysis)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-parsing-techniques)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-intermediate-code-generation)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-code-optimization)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-target-code-generation)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-assembler-pass-i)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-assembler-pass-ii)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-macro-processor)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-yacc--lex-tools)**
 
