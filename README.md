@@ -187,93 +187,99 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 ### Program Details
 
 <details>
-<summary><b>Experiment 1: Symbol Table Implementation</b></summary>
+<summary><b>Experiment 1: Lexical Analyzer using DFA (1 Program)</b></summary>
 
-| Resource | Description | Code |
-|:---|:---|:-:|
-| [Report](System%20Software%20Lab/Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) | Implementation of Symbol Table using C | [View](System%20Software%20Lab/Experiment-1/Source Code/DFA_Implementation.c) |
-
-</details>
-
-<details>
-<summary><b>Experiment 2: Lexical Analysis</b></summary>
-
-| Resource | Description | Code |
-|:---|:---|:-:|
-| [Report](System%20Software%20Lab/Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) | Scanner development using LEX tool | [View](System%20Software%20Lab/Experiment-2/Source Code/Lex_Lexical_Analyzer.l) |
+| Program | Category | Description | Code |
+|:---|:---|:---|:---:|
+| <kbd>DFA_Implementation.c</kbd> | Lexical Analysis | Implementation of DFA-based lexical analyzer in C | [View](System%20Software%20Lab/Experiment-1/Source%20Code/DFA_Implementation.c) |
 
 </details>
 
 <details>
-<summary><b>Experiment 3: Parsing Techniques</b></summary>
+<summary><b>Experiment 2: Lexical Analyzer using LEX (3 Programs)</b></summary>
 
-| Resource | Description | Code |
-|:---|:---|:-:|
-| [Report](System%20Software%20Lab/Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) | Calculation of FIRST and FOLLOW sets using C | [View](System%20Software%20Lab/Experiment-3/Source Code/First_Follow_Implementation.c) |
-
-</details>
-
-<details>
-<summary><b>Experiment 4: Intermediate Code Generation</b></summary>
-
-| Resource | Description | Code |
-|:---|:---|:-:|
-| [Report](System%20Software%20Lab/Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) | Implementation of Recursive Descent Parser | [View](System%20Software%20Lab/Experiment-4/Source Code/RD_Parser_Implementation.c) |
+| Program | Category | Description | Code |
+|:---|:---|:---|:---:|
+| <kbd>Lex_Lexical_Analyzer.l</kbd> | LEX Tool | Lexical analyzer specification using LEX | [View](System%20Software%20Lab/Experiment-2/Source%20Code/Lex_Lexical_Analyzer.l) |
+| <kbd>Manual_Lexical_Analyzer.c</kbd> | Lexical Analysis | Manual implementation of lexical analyzer in C | [View](System%20Software%20Lab/Experiment-2/Source%20Code/Manual_Lexical_Analyzer.c) |
+| <kbd>sample_input.c</kbd> | Test Input | Sample C program for testing lexical analyzer | [View](System%20Software%20Lab/Experiment-2/Source%20Code/sample_input.c) |
 
 </details>
 
 <details>
-<summary><b>Experiment 5: Code Optimization</b></summary>
+<summary><b>Experiment 3: FIRST and FOLLOW Sets (2 Programs)</b></summary>
 
-| Resource | Description | Code |
-|:---|:---|:-:|
-| [Report](System%20Software%20Lab/Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) | Writing a program for Code Optimization | [View](System%20Software%20Lab/Experiment-5/Source Code/Code_Optimization.c) |
-
-</details>
-
-<details>
-<summary><b>Experiment 6: Target Code Generation</b></summary>
-
-| Resource | Description | Code |
-|:---|:---|:-:|
-| [Report](System%20Software%20Lab/Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) | Implementation of Target Code Generation | [View](System%20Software%20Lab/Experiment-6/Source Code/Target_Code_Generator.c) |
+| Program | Category | Description | Code |
+|:---|:---|:---|:---:|
+| <kbd>First_Follow_Implementation.c</kbd> | Parsing | Implementation of FIRST and FOLLOW set calculation | [View](System%20Software%20Lab/Experiment-3/Source%20Code/First_Follow_Implementation.c) |
+| <kbd>grammar.txt</kbd> | Input Data | Grammar definition file for parsing | [View](System%20Software%20Lab/Experiment-3/Source%20Code/grammar.txt) |
 
 </details>
 
 <details>
-<summary><b>Experiment 7: Assembler PASS-I</b></summary>
+<summary><b>Experiment 4: Recursive Descent Parser (1 Program)</b></summary>
 
-| Resource | Description | Code |
-|:---|:---|:-:|
-| [Report](System%20Software%20Lab/Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) | Design and implementation of Pass-I Assembler | [View](System%20Software%20Lab/Experiment-7/Source Code/Assembler_Pass1.c) |
-
-</details>
-
-<details>
-<summary><b>Experiment 8: Assembler PASS-II</b></summary>
-
-| Resource | Description | Code |
-|:---|:---|:-:|
-| [Report](System%20Software%20Lab/Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) | Design and implementation of Pass-II Assembler | [View](System%20Software%20Lab/Experiment-8/Source Code/Assembler_Pass2.c) |
+| Program | Category | Description | Code |
+|:---|:---|:---|:---:|
+| <kbd>RD_Parser_Implementation.c</kbd> | Parsing | Implementation of Recursive Descent Parser | [View](System%20Software%20Lab/Experiment-4/Source%20Code/RD_Parser_Implementation.c) |
 
 </details>
 
 <details>
-<summary><b>Experiment 9: Macro Processor</b></summary>
+<summary><b>Experiment 5: Code Optimization (1 Program)</b></summary>
 
-| Resource | Description | Code |
-|:---|:---|:-:|
-| [Report](System%20Software%20Lab/Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) | Simulation of a one-pass Macro Processor | [View](System%20Software%20Lab/Experiment-9/Source Code/Macro_Processor.c) |
+| Program | Category | Description | Code |
+|:---|:---|:---|:---:|
+| <kbd>Code_Optimization.c</kbd> | Optimization | Implementation of code optimization techniques | [View](System%20Software%20Lab/Experiment-5/Source%20Code/Code_Optimization.c) |
 
 </details>
 
 <details>
-<summary><b>Experiment 10: YACC & LEX Tools</b></summary>
+<summary><b>Experiment 6: Target Code Generation (1 Program)</b></summary>
 
-| Resource | Description | Code |
-|:---|:---|:-:|
-| [Report](System%20Software%20Lab/Experiment-10/Amey_B-50_SPCC_Lab_Experiment-10.docx) | Identification of patterns using LEX | [View](System%20Software%20Lab/Experiment-10/Source Code/Integer_Recognizer.l) |
-| [All Tools](System%20Software%20Lab/Experiment-10/Source Code/) | Additional LEX/YACC implementations | [Explore](System%20Software%20Lab/Experiment-10/Source Code/) |
+| Program | Category | Description | Code |
+|:---|:---|:---|:---:|
+| <kbd>Target_Code_Generator.c</kbd> | Code Generation | Implementation of target code generator | [View](System%20Software%20Lab/Experiment-6/Source%20Code/Target_Code_Generator.c) |
+
+</details>
+
+<details>
+<summary><b>Experiment 7: Assembler Pass-I (4 Programs)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:---:|
+| <kbd>Assembler_Pass1.c</kbd> | Assembler | Implementation of Pass-I of two-pass assembler | [View](System%20Software%20Lab/Experiment-7/Source%20Code/Assembler_Pass1.c) |
+| <kbd>INPUT.txt</kbd> | Input Data | Assembly language input file | [View](System%20Software%20Lab/Experiment-7/Source%20Code/INPUT.txt) |
+| <kbd>OPTAB.txt</kbd> | Data Table | Operation code table | [View](System%20Software%20Lab/Experiment-7/Source%20Code/OPTAB.txt) |
+| <kbd>SYMTAB.txt</kbd> | Data Table | Symbol table output | [View](System%20Software%20Lab/Experiment-7/Source%20Code/SYMTAB.txt) |
+
+</details>
+
+<details>
+<summary><b>Experiment 8: Assembler Pass-II (1 Program)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:---:|
+| <kbd>Assembler_Pass2.c</kbd> | Assembler | Implementation of Pass-II of two-pass assembler | [View](System%20Software%20Lab/Experiment-8/Source%20Code/Assembler_Pass2.c) |
+
+</details>
+
+<details>
+<summary><b>Experiment 9: Macro Processor (1 Program)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:---:|
+| <kbd>Macro_Processor.c</kbd> | Macro Processing | Implementation of two-pass Macro Processor | [View](System%20Software%20Lab/Experiment-9/Source%20Code/Macro_Processor.c) |
+
+</details>
+
+<details>
+<summary><b>Experiment 10: LEX-YACC Tools (2 Programs)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:---:|
+| <kbd>Integer_Recognizer.l</kbd> | LEX Tool | LEX specification for integer recognition | [View](System%20Software%20Lab/Experiment-10/Source%20Code/Integer_Recognizer.l) |
+| <kbd>Arithmetic_Counter.l</kbd> | LEX Tool | LEX specification for arithmetic operations | [View](System%20Software%20Lab/Experiment-10/Source%20Code/Arithmetic_Counter.l) |
 
 </details>
 
