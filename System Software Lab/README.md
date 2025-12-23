@@ -15,7 +15,7 @@
 
   ---
 
-  **[🛠️ Exp 1](#-experiment-1-symbol-table-implementation)** &nbsp;·&nbsp; **[🔍 Exp 2](#-experiment-2-lexical-analysis)** &nbsp;·&nbsp; **[🏗️ Exp 3](#-experiment-3-parsing-techniques)** &nbsp;·&nbsp; **[🚦 Exp 4](#-experiment-4-intermediate-code-generation)** &nbsp;·&nbsp; **[⚙️ Exp 5](#-experiment-5-code-optimization)** &nbsp;·&nbsp; **[📝 Exp 6](#-experiment-6-assembler-pass-i)** &nbsp;·&nbsp; **[🧩 Exp 7](#-experiment-7-assembler-pass-ii)** &nbsp;·&nbsp; **[🔄 Exp 8](#-experiment-8-macro-processor)** &nbsp;·&nbsp; **[🔗 Exp 9](#-experiment-9-linker-and-loader)** &nbsp;·&nbsp; **[🛠️ Exp 10](#-experiment-10-yacc-tools)**
+  **[🛠️ Exp 1](#-experiment-1-symbol-table-implementation)** &nbsp;·&nbsp; **[🔍 Exp 2](#-experiment-2-lexical-analysis)** &nbsp;·&nbsp; **[🏗️ Exp 3](#-experiment-3-parsing-techniques)** &nbsp;·&nbsp; **[🚦 Exp 4](#-experiment-4-intermediate-code-generation)** &nbsp;·&nbsp; **[⚙️ Exp 5](#-experiment-5-code-optimization)** &nbsp;·&nbsp; **[📝 Exp 6](#-experiment-6-target-code-generation)** &nbsp;·&nbsp; **[🧩 Exp 7](#-experiment-7-assembler-pass-i)** &nbsp;·&nbsp; **[🔄 Exp 8](#-experiment-8-assembler-pass-ii)** &nbsp;·&nbsp; **[🔗 Exp 9](#-experiment-9-macro-processor)** &nbsp;·&nbsp; **[🛠️ Exp 10](#-experiment-10-yacc--lex-tools)**
 
 </div>
 
@@ -164,7 +164,7 @@ Parser development using YACC tool for various grammatical structures.
 
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
-| 📂 | [Report Folder](Experiment-10/) | Detailed experiment documents | [View](Experiment-10/) |
+| 📄 | [Lab Report](Experiment-10/Amey_B-50_SPCC_Lab_Experiment-10.docx) | Detailed experiment report | [View](Experiment-10/Amey_B-50_SPCC_Lab_Experiment-10.docx) |
 | 💻 | [Integer Recognizer](Experiment-10/Source Code/Integer_Recognizer.l) | LEX script to recognize integers | [View](Experiment-10/Source Code/Integer_Recognizer.l) |
 | 💻 | [Arithmetic Counter](Experiment-10/Source Code/Arithmetic_Counter.l) | LEX script to count numbers | [View](Experiment-10/Source Code/Arithmetic_Counter.l) |
 
@@ -178,7 +178,7 @@ Parser development using YACC tool for various grammatical structures.
   <!-- Footer Navigation -->
   **[⬆ Back to Top](#system-software-lab)**
 
-  **[🛠️ Exp 1](#-experiment-1-symbol-table-implementation)** &nbsp;·&nbsp; **[🔍 Exp 2](#-experiment-2-lexical-analysis)** &nbsp;·&nbsp; **[🏗️ Exp 3](#-experiment-3-parsing-techniques)** &nbsp;·&nbsp; **[🚦 Exp 4](#-experiment-4-intermediate-code-generation)** &nbsp;·&nbsp; **[⚙️ Exp 5](#-experiment-5-code-optimization)** &nbsp;·&nbsp; **[📝 Exp 6](#-experiment-6-assembler-pass-i)** &nbsp;·&nbsp; **[🧩 Exp 7](#-experiment-7-assembler-pass-ii)** &nbsp;·&nbsp; **[🔄 Exp 8](#-experiment-8-macro-processor)** &nbsp;·&nbsp; **[🔗 Exp 9](#-experiment-9-linker-and-loader)** &nbsp;·&nbsp; **[🛠️ Exp 10](#-experiment-10-yacc-tools)**
+  **[🛠️ Exp 1](#-experiment-1-symbol-table-implementation)** &nbsp;·&nbsp; **[🔍 Exp 2](#-experiment-2-lexical-analysis)** &nbsp;·&nbsp; **[🏗️ Exp 3](#-experiment-3-parsing-techniques)** &nbsp;·&nbsp; **[🚦 Exp 4](#-experiment-4-intermediate-code-generation)** &nbsp;·&nbsp; **[⚙️ Exp 5](#-experiment-5-code-optimization)** &nbsp;·&nbsp; **[📝 Exp 6](#-experiment-6-target-code-generation)** &nbsp;·&nbsp; **[🧩 Exp 7](#-experiment-7-assembler-pass-i)** &nbsp;·&nbsp; **[🔄 Exp 8](#-experiment-8-assembler-pass-ii)** &nbsp;·&nbsp; **[🔗 Exp 9](#-experiment-9-macro-processor)** &nbsp;·&nbsp; **[🛠️ Exp 10](#-experiment-10-yacc--lex-tools)**
 
   <br>
 
