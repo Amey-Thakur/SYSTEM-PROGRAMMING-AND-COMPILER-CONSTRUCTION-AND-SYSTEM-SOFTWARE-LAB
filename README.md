@@ -137,7 +137,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) | Implementation of Symbol Table using C | [View](System%20Software%20Lab/Experiment-1/Source Code/SPCC-1.c) |
+| [📄 Report](System%20Software%20Lab/Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) | Implementation of Symbol Table using C | [View](System%20Software%20Lab/Experiment-1/Source Code/DFA_Implementation.c) |
 
 </details>
 
