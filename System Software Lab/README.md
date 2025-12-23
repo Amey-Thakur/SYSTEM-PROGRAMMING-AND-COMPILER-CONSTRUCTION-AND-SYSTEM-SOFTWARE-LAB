@@ -165,7 +165,8 @@ Parser development using YACC tool for various grammatical structures.
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📂 | [Report Folder](Experiment-10/) | Detailed experiment documents | [View](Experiment-10/) |
-| 💻 | [Source Code](Experiment-10/Source Code/) | YACC implementation for parser | [View](Experiment-10/Source Code/) |
+| 💻 | [Integer Recognizer](Experiment-10/Source Code/Integer_Recognizer.l) | LEX script to recognize integers | [View](Experiment-10/Source Code/Integer_Recognizer.l) |
+| 💻 | [Arithmetic Counter](Experiment-10/Source Code/Arithmetic_Counter.l) | LEX script to count numbers | [View](Experiment-10/Source Code/Arithmetic_Counter.l) |
 
 ---
 
