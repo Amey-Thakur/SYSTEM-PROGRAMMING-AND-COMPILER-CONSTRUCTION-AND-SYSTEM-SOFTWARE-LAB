@@ -196,11 +196,11 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 </details>
 
 <details>
-<summary><b>🔄 Experiment 8: Macro Processor</b></summary>
+<summary><b>🔄 Experiment 8: Assembler PASS-II</b></summary>
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) | Design of two-pass Macro Processor | [View](System%20Software%20Lab/Experiment-8/Source Code/SPCC-8.c) |
+| [📄 Report](System%20Software%20Lab/Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) | Design and implementation of Pass-II Assembler | [View](System%20Software%20Lab/Experiment-8/Source Code/Assembler_Pass2.c) |
 
 </details>
 
