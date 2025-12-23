@@ -178,11 +178,11 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 </details>
 
 <details>
-<summary><b>📝 Experiment 6: Assembler PASS-I</b></summary>
+<summary><b>📝 Experiment 6: Target Code Generation</b></summary>
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) | Implementation of One-pass Assembler logic | [View](System%20Software%20Lab/Experiment-6/Source Code/SPCC-6.c) |
+| [📄 Report](System%20Software%20Lab/Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) | Implementation of Target Code Generation | [View](System%20Software%20Lab/Experiment-6/Source Code/Target_Code_Generator.c) |
 
 </details>
 
