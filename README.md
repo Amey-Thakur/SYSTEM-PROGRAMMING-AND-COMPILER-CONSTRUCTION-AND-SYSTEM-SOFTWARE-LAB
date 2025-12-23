@@ -311,12 +311,27 @@ Technical mock test conducted for placement preparation:
      ========================================================================================= -->
 ## Internal Assessment Test
 
-Internal evaluation assessments:
+Internal assessment evaluations conducted during the course:
 
-| Resource | Description | Link |
-|:---|:---|:-:|
-| **IAT - 1** | Internal Assessment Test 1 (Amey Thakur) | [📄 View](Internal%20Assessment%20Test/Amey_B-50_SPCC_IAT-1.pdf) |
-| **IAT - 2** | Internal Assessment Test 2 (Amey Thakur) | [📄 View](Internal%20Assessment%20Test/AMEY_B-50_SPCC_IAT-2.pdf) |
+### 🔗 IAT - 1 · March 16, 2021
+
+| # | Resource | Description | Marks |
+|:-:|:---|:---|:---:|
+| 1 | [Question Paper](Internal%20Assessment%20Test/43IAT-1_SPCC_Descriptive_Questions.docx) | SPCC Internal Assessment Test 1 Question Paper | — |
+| 2 | [MCQ](Internal%20Assessment%20Test/SPCC-MCQ.png) | SPCC Internal Assessment Test 1 MCQ | 10/10 |
+| 3 | [Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_SPCC_IAT-1.pdf) | SPCC Internal Assessment Test 1 Answer Sheet | 19/20 |
+
+### IAT - 2
+
+| # | Resource | Description | Marks |
+|:-:|:---|:---|:---:|
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_SPCC_IAT-2.pdf) | SPCC Internal Assessment Test 2 Answer Sheet | — |
+
+**Additional Resources:**
+
+| # | Resource | Description | Link |
+|:-:|:---|:---|:---:|
+| 1 | **Question Paper** | SPCC IAT Question Paper | [View](Internal%20Assessment%20Test/SPCC.pdf) |
 
 ---
 
