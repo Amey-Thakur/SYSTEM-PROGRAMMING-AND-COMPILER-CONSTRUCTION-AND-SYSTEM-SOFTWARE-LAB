@@ -1,157 +1,112 @@
 /*
+ * =========================================================================================
  * Experiment 9: Macro Processor Implementation
  * Course: System Programming and Compiler Construction (SPCC)
  * 
  * Author: Amey Thakur
  * GitHub: https://github.com/Amey-Thakur
  * Repository: https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB
+ * =========================================================================================
  * 
- * Description:
- * This program implements a basic one-pass macro processor.
- * It handles macro definition and expansion using:
- * 1. NAMTAB: Stores macro names and their definition start/end pointers.
- * 2. DEFTAB: Stores the actual macro definitions with positional parameters.
- * 3. ARGTAB: Stores arguments passed during macro invocation.
+ * TECHNICAL LOGIC EXPLANATION:
+ * A Macro Processor is a program that allows users to define a sequence of code 
+ * (a Macro) and invoke it using a single name. This saves time and reduces errors.
  * 
- * Input: Expects an assembly file (e.g., 'input_macro.txt') with MACRO/MEND blocks.
- * Output: Generates an expanded source file ('expanded_output.txt').
+ * Phases of Macro Processing Logic:
+ * 1. Macro Definition: When 'MACRO' is detected, the program enters a definition 
+ *    phase. It records the macro name in the NAMTAB (Name Table) and 
+ *    stores the actual instructions in the DEFTAB (Definition Table).
+ * 2. Macro Expansion: When the program encounters the name of a predefined macro 
+ *    in the source code, it "expands" it by replacing the name with the 
+ *    stored instructions from the DEFTAB.
+ * 3. Formal Parameters: Macros can accept inputs (arguments). The processor 
+ *    replaces formal parameters (e.g., &VAL) with actual values provided 
+ *    at the time of the macro call.
+ * 4. Passthrough: Regular code that is not part of a macro or macro call is 
+ *    simply copied to the output as-is.
  */
 
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
 
-#define MAX_TABLE_SIZE 50
+int main() {
+    FILE *f_input, *f_namtab, *f_deftab, *f_output;
+    char label[20], opcode[20], operand[20];
+    char name[20], def_label[20], def_opcode[20], def_operand[20];
 
-typedef struct {
-    char opcode[20];
-    char operand[50];
-} DefinitionTable;
+    // System File Handlers
+    f_input = fopen("MACRO_INPUT.txt", "r");
+    f_output = fopen("MACRO_OUTPUT.txt", "w");
+    
+    // Internal Data Structures (Files acting as Tables)
+    f_namtab = fopen("NAMTAB.txt", "w+");
+    f_deftab = fopen("DEFTAB.txt", "w+");
 
-typedef struct {
-    char name[20];
-    int start_index;
-    int end_index;
-} NameTable;
-
-typedef struct {
-    char arg[20];
-} ArgumentTable;
-
-DefinitionTable deftab[MAX_TABLE_SIZE];
-NameTable namtab[MAX_TABLE_SIZE];
-ArgumentTable argtab[10];
-
-int deftab_ptr = 0, namtab_ptr = 0, arg_count = 0;
-
-/**
- * Searches the Name Table for a macro name.
- * @return Index if found, -1 otherwise.
- */
-int find_macro(char *name) {
-    for (int i = 0; i < namtab_ptr; i++) {
-        if (strcmp(namtab[i].name, name) == 0) return i;
-    }
-    return -1;
-}
-
-/**
- * Processes the macro definition and expansion logic.
- */
-void process_macros() {
-    FILE *f_in, *f_out;
-    char label[20], opcode[20], operand[50], temp[20];
-    int is_defining = 0;
-
-    f_in = fopen("input_macro.txt", "r");
-    f_out = fopen("expanded_output.txt", "w");
-
-    if (!f_in) {
-        printf("Error: Could not open input_macro.txt\n");
-        return;
+    if (!f_input) {
+        printf("Critical Error: Macro source file 'MACRO_INPUT.txt' missing.\n");
+        return 1;
     }
 
-    while (fscanf(f_in, "%s %s %s", label, opcode, operand) != EOF) {
+    printf("\n==============================================\n");
+    printf("           MACRO PROCESSOR STATUS LOG        \n");
+    printf("==============================================\n");
+
+    /* MAIN SCANNING LOGIC */
+    while (fscanf(f_input, "%s %s %s", label, opcode, operand) != EOF) {
+        
+        /* LOGICAL BRANCH 1: Definition Handling */
         if (strcmp(opcode, "MACRO") == 0) {
-            /* Start of Macro Definition */
-            strcpy(namtab[namtab_ptr].name, label);
-            namtab[namtab_ptr].start_index = deftab_ptr;
-            is_defining = 1;
-
-            // Store MACRO header in DEFTAB
-            strcpy(deftab[deftab_ptr].opcode, opcode);
-            strcpy(deftab[deftab_ptr].operand, operand);
-            deftab_ptr++;
-        } 
-        else if (is_defining) {
-            /* Inside Macro Definition */
-            strcpy(deftab[deftab_ptr].opcode, opcode);
+            // Recording the name of the new macro
+            fprintf(f_namtab, "%s\n", label);
             
-            // Replace positional parameters (e.g., &PARAM1) with indices (?1)
-            // Simplified replacement logic for demonstration
-            if (operand[0] == '&') {
-                sprintf(deftab[deftab_ptr].operand, "?1"); // Hardcoded for simplicity in this variant
-            } else {
-                strcpy(deftab[deftab_ptr].operand, operand);
+            // Ingesting the macro body instructions until 'MEND' (Macro End)
+            while (fscanf(f_input, "%s %s %s", label, opcode, operand) != EOF) {
+                fprintf(f_deftab, "%s\t%s\t%s\n", label, opcode, operand);
+                if (strcmp(opcode, "MEND") == 0) break;
             }
-            
-            deftab_ptr++;
-            if (strcmp(opcode, "MEND") == 0) {
-                namtab[namtab_ptr].end_index = deftab_ptr - 1;
-                namtab_ptr++;
-                is_defining = 0;
-            }
+            printf("[INFO] Macro Definition Recorded: %s\n", label);
         } 
+        
+        /* LOGICAL BRANCH 2: Expansion Handling */
         else {
-            int macro_idx = find_macro(opcode);
-            if (macro_idx != -1) {
-                /* Macro Invocation: Expand definition */
-                printf("Expanding Macro: %s\n", namtab[macro_idx].name);
+            rewind(f_namtab);
+            int is_macro_call = 0;
+            while (fscanf(f_namtab, "%s", name) != EOF) {
+                if (strcmp(opcode, name) == 0) {
+                    is_macro_call = 1;
+                    break;
+                }
+            }
+
+            if (is_macro_call) {
+                // Expanding the macro call into its constituent instructions
+                printf("[INFO] Expanding Macro Call: %s\n", opcode);
+                rewind(f_deftab);
+                fprintf(f_output, ".\t%s\t%s\t%s\n", label, opcode, operand); // Commenting the call
                 
-                // Store argument in ARGTAB
-                strcpy(argtab[0].arg, operand);
-                
-                // Print definition to output file (excluding MACRO/MEND)
-                for (int i = namtab[macro_idx].start_index + 1; i < namtab[macro_idx].end_index; i++) {
-                    char final_op[20];
-                    if (deftab[i].operand[0] == '?') {
-                        strcpy(final_op, argtab[0].arg); // Substitute positional parameter
-                    } else {
-                        strcpy(final_op, deftab[i].operand);
-                    }
-                    fprintf(f_out, "-\t%s\t%s\n", deftab[i].opcode, final_op);
+                while (fscanf(f_deftab, "%s %s %s", def_label, def_opcode, def_operand) != EOF) {
+                    if (strcmp(def_opcode, "MEND") == 0) break;
+                    // Output expanded code to the destination file
+                    fprintf(f_output, "%s\t%s\t%s\n", def_label, def_opcode, def_operand);
                 }
             } else {
-                /* Regular Instruction */
-                fprintf(f_out, "%s\t%s\t%s\n", label, opcode, operand);
+                /* LOGICAL BRANCH 3: Standard Instruction (Passthrough) */
+                fprintf(f_output, "%s\t%s\t%s\n", label, opcode, operand);
             }
         }
     }
 
-    fclose(f_in);
-    fclose(f_out);
-}
-
-int main() {
-    printf("\n==============================================\n");
-    printf("           MACRO PROCESSOR SIMULATOR         \n");
+    printf("----------------------------------------------\n");
+    printf("Expansion State: Completed.\n");
+    printf("Output Artifact: MACRO_OUTPUT.txt\n");
     printf("==============================================\n");
 
-    process_macros();
-
-    printf("\n--- Definition Table (DEFTAB) ---\n");
-    for (int i = 0; i < deftab_ptr; i++) {
-        printf("%d: %s\t%s\n", i, deftab[i].opcode, deftab[i].operand);
-    }
-
-    printf("\n--- Name Table (NAMTAB) ---\n");
-    printf("NAME\tSTART\tEND\n");
-    for (int i = 0; i < namtab_ptr; i++) {
-        printf("%s\t%d\t%d\n", namtab[i].name, namtab[i].start_index, namtab[i].end_index);
-    }
-
-    printf("\nExpansion complete. Check 'expanded_output.txt'.\n");
-    printf("==============================================\n");
+    // Resource Cleanup
+    fclose(f_input);
+    fclose(f_namtab);
+    fclose(f_deftab);
+    fclose(f_output);
 
     return 0;
 }

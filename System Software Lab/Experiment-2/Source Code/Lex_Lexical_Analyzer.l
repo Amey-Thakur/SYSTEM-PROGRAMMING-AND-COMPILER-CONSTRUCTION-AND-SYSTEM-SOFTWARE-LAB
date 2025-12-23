@@ -1,79 +1,128 @@
 %{
 /*
+ * =========================================================================================
  * Experiment 2: Lexical Analysis (using LEX Tool)
  * Course: System Programming and Compiler Construction (SPCC)
  * 
  * Author: Amey Thakur
  * GitHub: https://github.com/Amey-Thakur
  * Repository: https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB
+ * =========================================================================================
  * 
- * Description:
- * This LEX program performs lexical analysis on a C source file.
- * It identifies keywords, identifiers, constants, operators, and comments.
+ * TECHNICAL LOGIC EXPLANATION:
+ * This program utilizes the LEX (Lexical Analyzer Generator) utility to decompose 
+ * C source code into its fundamental components, known as "Tokens".
+ * 
+ * Operational Workflow:
+ * 1. Pattern Definition: The program defines specific structures for Identifiers, 
+ *    Keywords, Constants, and Operators using Regular Expressions.
+ * 2. Input Scanning: The LEX-generated scanner reads the target file character 
+ *    by character, matching text segments against the defined patterns.
+ * 3. Action Execution: Upon a successful match, a corresponding C code snippet 
+ *    (Action) is executed, such as printing the classification of the token.
+ * 4. Context Awareness: The program maintains a "comment depth" counter to 
+ *    effectively ignore and skip over text within C-style multi-line comments.
  */
 
 #include <stdio.h>
 #include <stdlib.h>
 
-int comment_depth = 0;
+/* Global state for tracking comment block nesting to prevent invalid token detection */
+int comment_depth = 0; 
 %}
 
-/* Regular Expressions */
+/* 
+ * DEFINITION SECTION
+ * Regular expressions defining the lexical categories for the C language.
+ */
+
+/* Identifiers: Character-based labels starting with letters or underscores. */
 ID          [a-zA-Z_][a-zA-Z0-9_]*
+
+/* Numbers: Literal numeric values encompassing both integers and floating-point types. */
 NUMBER      [0-9]+(\.[0-9]+)?
+
+/* Keywords: Reserved language-specific terms with predefined internal logic. */
 KEYWORDS    "int"|"float"|"char"|"double"|"while"|"for"|"struct"|"typedef"|"do"|"if"|"break"|"continue"|"void"|"switch"|"return"|"else"|"goto"
+
+/* Operators: Symbols representing arithmetic, logical, and assignment operations. */
 OPERATORS   "+"|"-"|"*"|"/"|"%"|"="|"=="|"!="|"<"|">"|"<="|">="
 
 %%
 
+/* 
+ * RULES SECTION
+ * Maps patterns to specific C-language actions.
+ */
+
+/* Comment Filtering Logic: Increments depth on start symbol and decrements on end symbol. */
 "/*"        { comment_depth++; printf("\n[COMMENT START]"); }
 "*/"        { if (comment_depth > 0) comment_depth--; printf("\n[COMMENT END]"); }
 
-{KEYWORDS}  { if (!comment_depth) printf("\nKeyword: %s", yytext); }
-{ID}        { if (!comment_depth) printf("\nIdentifier: %s", yytext); }
-{NUMBER}    { if (!comment_depth) printf("\nNumber: %s", yytext); }
-{OPERATORS} { if (!comment_depth) printf("\nOperator: %s", yytext); }
+/* Token Classification: Actions are conditional upon the state being 'not inside a comment'. */
+{KEYWORDS}  { if (!comment_depth) printf("\nClass: Keyword    | Value: %s", yytext); }
+{ID}        { if (!comment_depth) printf("\nClass: Identifier | Value: %s", yytext); }
+{NUMBER}    { if (!comment_depth) printf("\nClass: Constant   | Value: %s", yytext); }
+{OPERATORS} { if (!comment_depth) printf("\nClass: Operator   | Value: %s", yytext); }
 
-\"[^\"]*\"  { if (!comment_depth) printf("\nString constant: %s", yytext); }
-"#"         { if (!comment_depth) printf("\nPreprocessor Directive: #"); }
-[ \t\n]+    { /* Ignore whitespace */ }
-"{"         { if (!comment_depth) printf("\nBlock Start: {"); }
-"}"         { if (!comment_depth) printf("\nBlock End: }"); }
-"("         { if (!comment_depth) printf("\nParenthesis Open: ("); }
-")"         { if (!comment_depth) printf("\nParenthesis Close: )"); }
-";"         { if (!comment_depth) printf("\nSemicolon: ;"); }
-","         { if (!comment_depth) printf("\nComma: ,"); }
+/* Literal Recognition for quoted text strings. */
+\"[^\"]*\"  { if (!comment_depth) printf("\nClass: String     | Value: %s", yytext); }
 
-.           { if (!comment_depth) printf("\nUnknown Token: %s", yytext); }
+/* Directive Recognition for preprocessor commands starting with '#'. */
+"#"         { if (!comment_depth) printf("\nClass: Preprocessor Directive"); }
+
+/* Structural Character Mapping and Neutralization. */
+[ \t\n]+    { /* Action: Null (Whitespace and line-feed symbols are ignored). */ }
+"{"         { if (!comment_depth) printf("\nStructure: Block Start"); }
+"}"         { if (!comment_depth) printf("\nStructure: Block End"); }
+"("         { if (!comment_depth) printf("\nStructure: Parenthesis Open"); }
+")"         { if (!comment_depth) printf("\nStructure: Parenthesis Close"); }
+";"         { if (!comment_depth) printf("\nStructure: Semicolon"); }
+","         { if (!comment_depth) printf("\nStructure: Comma"); }
+
+/* Default Rule: Handles any character sequences not matching prior categories. */
+.           { if (!comment_depth) printf("\nStatus: Undefined Token | Value: %s", yytext); }
 
 %%
 
+/* 
+ * MAIN EXECUTION BLOCK
+ * Configures file handles and triggers the lexical scanning process.
+ */
 int main(int argc, char **argv) {
     char *input_file = "sample_input.c";
     
+    // Command-line parameter handling for flexible file targeting.
     if (argc > 1) {
         input_file = argv[1];
     }
 
     FILE *file = fopen(input_file, "r");
     if (!file) {
-        printf("\nError: Could not open file %s\n", input_file);
+        printf("\nError: Unable to locate or open target file: %s\n", input_file);
         return 1;
     }
 
     printf("\n==============================================\n");
-    printf("       LEX Lexical Analyzer for SPCC Lab       \n");
+    printf("         LEX Lexical Analysis Engine          \n");
     printf("==============================================\n");
-    printf("Reading from: %s\n", input_file);
+    printf("Analyzing: %s\n", input_file);
 
-    yyin = file;
-    yylex();
+    /* Pointing the global LEX scanner input to the opened file stream. */
+    yyin = file; 
+    
+    /* Executing the core scanning routine generated by LEX. */
+    yylex();     
 
     fclose(file);
     printf("\n\n==============================================\n");
     return 0;
 }
 
+/* 
+ * Standard LEX completion routine. 
+ * Returning 1 indicates there are no additional files to be processed in this session.
+ */
 int yywrap() {
-    return 1;
+    return 1; 
 }
