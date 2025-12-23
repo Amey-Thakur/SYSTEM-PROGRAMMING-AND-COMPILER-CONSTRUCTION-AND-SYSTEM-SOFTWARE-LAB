@@ -214,11 +214,12 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 </details>
 
 <details>
-<summary><b>🛠️ Experiment 10: YACC Tools</b></summary>
+<summary><b>🛠️ Experiment 10: YACC & LEX Tools</b></summary>
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📂 Report Folder](System%20Software%20Lab/Experiment-10/) | Parser development using YACC for grammars | [View](System%20Software%20Lab/Experiment-10/Source Code/) |
+| [📄 Report](System%20Software%20Lab/Experiment-10/Amey_B-50_SPCC_Lab_Experiment-10.pdf) | Identification of patterns using LEX | [View](System%20Software%20Lab/Experiment-10/Source Code/Integer_Recognizer.l) |
+| [📂 All Tools](System%20Software%20Lab/Experiment-10/Source Code/) | Additional LEX/YACC implementations | [Explore](System%20Software%20Lab/Experiment-10/Source Code/) |
 
 </details>
 
