@@ -109,7 +109,7 @@ Implementation of Target Code Generation logic including MOV and arithmetic inst
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) | Detailed experiment report | [View](Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) |
-| 💻 | [Source Code](Experiment-6/Source Code/SPCC-6.c) | C implementation for Assembler PASS-I | [View](Experiment-6/Source Code/SPCC-6.c) |
+| 💻 | [Source Code](Experiment-6/Source Code/Target_Code_Generator.c) | C implementation for Target Code Generation | [View](Experiment-6/Source Code/Target_Code_Generator.c) |
 
 ---
 
