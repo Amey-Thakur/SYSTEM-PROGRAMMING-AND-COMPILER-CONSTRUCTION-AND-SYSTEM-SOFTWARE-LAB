@@ -187,11 +187,11 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 </details>
 
 <details>
-<summary><b>🧩 Experiment 7: Assembler PASS-II</b></summary>
+<summary><b>🧩 Experiment 7: Assembler PASS-I</b></summary>
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) | Design and implementation of Multi-pass Assembler | [View](System%20Software%20Lab/Experiment-7/Source Code/SPCC-7.c) |
+| [📄 Report](System%20Software%20Lab/Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) | Design and implementation of Pass-I Assembler | [View](System%20Software%20Lab/Experiment-7/Source Code/Assembler_Pass1.c) |
 
 </details>
 

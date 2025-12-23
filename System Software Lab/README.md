@@ -116,14 +116,14 @@ Implementation of Target Code Generation logic including MOV and arithmetic inst
 <!-- =========================================================================================
                                      EXPERIMENT 7
      ========================================================================================= -->
-## 🧩 Experiment 7: Assembler PASS-II
+## 🧩 Experiment 7: Assembler PASS-I
 
-Design and implementation of Multi-pass Assembler to generate object code.
+Design and implementation of Pass-I Assembler to generate Symbol Table and calculate program length.
 
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) | Detailed experiment report | [View](Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) |
-| 💻 | [Source Code](Experiment-7/Source Code/SPCC-7.c) | C implementation for Assembler PASS-II | [View](Experiment-7/Source Code/SPCC-7.c) |
+| 💻 | [Source Code](Experiment-7/Source Code/Assembler_Pass1.c) | C implementation for Assembler PASS-I | [View](Experiment-7/Source Code/Assembler_Pass1.c) |
 
 ---
 
