@@ -329,9 +329,9 @@ Internal assessment evaluations conducted during the course:
 
 **Additional Resources:**
 
-| # | Resource | Description | Link |
-|:-:|:---|:---|:---:|
-| 1 | **Answer Sheet Template** | IAT Answer Sheet Template | [View](Internal%20Assessment%20Test/SPCC.pdf) |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Answer Sheet Template](Internal%20Assessment%20Test/SPCC.pdf) | IAT Answer Sheet Template |
 
 ---
 
