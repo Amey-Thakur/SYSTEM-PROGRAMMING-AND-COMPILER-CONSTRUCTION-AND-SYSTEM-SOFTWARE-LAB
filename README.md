@@ -340,12 +340,23 @@ Internal assessment evaluations conducted during the course:
      ========================================================================================= -->
 ## Semester Exam
 
-Final semester examination submissions:
+> [!IMPORTANT]
+> **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic. All examinations and assessments were conducted in a digital format.
 
-| Resource | Description | Date |
-|:---|:---|:---:|
-| [📄 Answersheet Q2](Semester%20Exam/Q2_61021145_SPCC.pdf) | SPCC Question 2 Answer Document | June 2021 |
-| [📄 Answersheet Q3](Semester%20Exam/Q3_61021145_SPCC.pdf) | SPCC Question 3 Answer Document | June 2021 |
+Final semester examination submission:
+
+| # | Resource | Description | Date |
+|:-:|:---|:---|:---:|
+| 1 | [MCQ](Semester%20Exam/MCQ_TE-B_Subject-SPCC.pdf) | SPCC Semester Exam MCQ Paper | June 04, 2021 |
+| 2 | [Question 2](Semester%20Exam/Q2_61021145_SPCC.pdf) | SPCC Semester Exam Answer Sheet | June 04, 2021 |
+| 3 | [Question 3](Semester%20Exam/Q3_61021145_SPCC.pdf) | SPCC Semester Exam Answer Sheet | June 04, 2021 |
+
+**Additional Resources:**
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Answer Sheet Template](Semester%20Exam/SPCC.pdf) | Semester Exam Answer Sheet Template |
+| 2 | [SPCC Questions](Semester%20Exam/SPCC_QUESTIONS.docx) | SPCC Exam Questions Document |
 
 ---
 
