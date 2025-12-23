@@ -105,9 +105,9 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date | Marks |
 |:-:|:---|:---|:---:|:---:|
-| 1 | [**Assignment 1**](Assignments/Amey_B-50_SPCC_Assignment-1.pdf) | Language Processors, Data Structures, and Assembler Design | — | — |
-| 2 | [**Assignment 2**](Assignments/Amey_B-50_SPCC_Assignment-2.pdf) | Macro Processors, Linkers, and Loaders | — | — |
-| 3 | [**Assignment 3**](Assignments/Amey_B-50_SPCC_Assignment-3.pdf) | Compilers - Lexical, Syntax, and Semantic Analysis | — | — |
+| 1 | [**Assignment 1**](Assignments/Amey_B-50_SPCC_Assignment-1.pdf) | Language Processors, Data Structures, and Assembler Design | April 10, 2021 | — |
+| 2 | [**Assignment 2**](Assignments/Amey_B-50_SPCC_Assignment-2.pdf) | Macro Processors, Linkers, and Loaders | April 20, 2021 | — |
+| 3 | [**Assignment 3**](Assignments/Amey_B-50_SPCC_Assignment-3.pdf) | Compilers - Lexical, Syntax, and Semantic Analysis | April 30, 2021 | — |
 
 **Topics Covered**: Fundamentals of Language Processing · Assembler PASS-I and PASS-II · Macro Definition and Expansion · Relocation and Linking Concepts · Loader Schemes · Compiler Phases and Grammars
 
