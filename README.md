@@ -105,9 +105,9 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date | Marks |
 |:-:|:---|:---|:---:|:---:|
-| 1 | [**Assignment 1**](Assignments/Amey_B-50_SPCC_Assignment-1.pdf) | System Programming Fundamentals, Error Recovery, Operator Precedence, Code Optimization, DAG | April 10, 2021 | — |
-| 2 | [**Assignment 2**](Assignments/Amey_B-50_SPCC_Assignment-2.pdf) | Forward Reference, Assemblers (Pass-I & Pass-II), Loaders, Direct Linking, Macro Processors | April 20, 2021 | — |
-| 3 | [**Assignment 3**](Assignments/Amey_B-50_SPCC_Assignment-3.pdf) | Case Study on Compiler Construction Tools (LEX and YACC) | April 30, 2021 | — |
+| 1 | [**Assignment 1**](Assignments/Amey_B-50_SPCC_Assignment-1.pdf) | System Programming Fundamentals, Error Recovery, Operator Precedence, Code Optimization, DAG | April 10, 2021 | 10/10 |
+| 2 | [**Assignment 2**](Assignments/Amey_B-50_SPCC_Assignment-2.pdf) | Forward Reference, Assemblers (Pass-I & Pass-II), Loaders, Direct Linking, Macro Processors | April 20, 2021 | 10/10 |
+| 3 | [**Assignment 3**](Assignments/Amey_B-50_SPCC_Assignment-3.pdf) | Case Study on Compiler Construction Tools (LEX and YACC) | April 30, 2021 | 10/10 |
 
 **Topics Covered**: System Programming Fundamentals · Error Recovery Techniques · Operator Precedence Parsing · Code Optimization · DAG Representation · Forward Reference Problem · Assembler PASS-I and PASS-II · Loaders and Direct Linking · Macro Processors · Compiler Construction Tools (LEX and YACC)
 
