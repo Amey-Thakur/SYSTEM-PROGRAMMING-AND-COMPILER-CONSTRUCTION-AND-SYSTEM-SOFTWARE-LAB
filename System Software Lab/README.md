@@ -61,12 +61,13 @@ Scanner development using LEX tool to identify tokens in a source program.
      ========================================================================================= -->
 ## 🏗️ Experiment 3: Parsing Techniques
 
-Implementation of Recursive Descent Parser for syntax analysis of grammars.
+Implementation of FIRST and FOLLOW sets calculation for syntax analysis of grammars.
 
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) | Detailed experiment report | [View](Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) |
-| 💻 | [Source Code](Experiment-3/Source Code/SPCC-3.c) | C implementation for RD Parser | [View](Experiment-3/Source Code/SPCC-3.c) |
+| 💻 | [Source Code](Experiment-3/Source Code/First_Follow_Implementation.c) | C implementation for FIRST & FOLLOW | [View](Experiment-3/Source Code/First_Follow_Implementation.c) |
+| 📄 | [Grammar File](Experiment-3/Source Code/grammar.txt) | Input grammar for calculation | [View](Experiment-3/Source Code/grammar.txt) |
 
 ---
 
