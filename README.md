@@ -187,93 +187,93 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 ### Program Details
 
 <details>
-<summary><b>🛠️ Experiment 1: Symbol Table Implementation</b></summary>
+<summary><b>Experiment 1: Symbol Table Implementation</b></summary>
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) | Implementation of Symbol Table using C | [View](System%20Software%20Lab/Experiment-1/Source Code/DFA_Implementation.c) |
+| [Report](System%20Software%20Lab/Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) | Implementation of Symbol Table using C | [View](System%20Software%20Lab/Experiment-1/Source Code/DFA_Implementation.c) |
 
 </details>
 
 <details>
-<summary><b>🔍 Experiment 2: Lexical Analysis</b></summary>
+<summary><b>Experiment 2: Lexical Analysis</b></summary>
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) | Scanner development using LEX tool | [View](System%20Software%20Lab/Experiment-2/Source Code/Lex_Lexical_Analyzer.l) |
+| [Report](System%20Software%20Lab/Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) | Scanner development using LEX tool | [View](System%20Software%20Lab/Experiment-2/Source Code/Lex_Lexical_Analyzer.l) |
 
 </details>
 
 <details>
-<summary><b>🏗️ Experiment 3: Parsing Techniques</b></summary>
+<summary><b>Experiment 3: Parsing Techniques</b></summary>
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) | Calculation of FIRST and FOLLOW sets using C | [View](System%20Software%20Lab/Experiment-3/Source Code/First_Follow_Implementation.c) |
+| [Report](System%20Software%20Lab/Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) | Calculation of FIRST and FOLLOW sets using C | [View](System%20Software%20Lab/Experiment-3/Source Code/First_Follow_Implementation.c) |
 
 </details>
 
 <details>
-<summary><b>🚦 Experiment 4: Intermediate Code Generation</b></summary>
+<summary><b>Experiment 4: Intermediate Code Generation</b></summary>
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) | Implementation of Recursive Descent Parser | [View](System%20Software%20Lab/Experiment-4/Source Code/RD_Parser_Implementation.c) |
+| [Report](System%20Software%20Lab/Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) | Implementation of Recursive Descent Parser | [View](System%20Software%20Lab/Experiment-4/Source Code/RD_Parser_Implementation.c) |
 
 </details>
 
 <details>
-<summary><b>⚙️ Experiment 5: Code Optimization</b></summary>
+<summary><b>Experiment 5: Code Optimization</b></summary>
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) | Writing a program for Code Optimization | [View](System%20Software%20Lab/Experiment-5/Source Code/Code_Optimization.c) |
+| [Report](System%20Software%20Lab/Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) | Writing a program for Code Optimization | [View](System%20Software%20Lab/Experiment-5/Source Code/Code_Optimization.c) |
 
 </details>
 
 <details>
-<summary><b>📝 Experiment 6: Target Code Generation</b></summary>
+<summary><b>Experiment 6: Target Code Generation</b></summary>
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) | Implementation of Target Code Generation | [View](System%20Software%20Lab/Experiment-6/Source Code/Target_Code_Generator.c) |
+| [Report](System%20Software%20Lab/Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) | Implementation of Target Code Generation | [View](System%20Software%20Lab/Experiment-6/Source Code/Target_Code_Generator.c) |
 
 </details>
 
 <details>
-<summary><b>🧩 Experiment 7: Assembler PASS-I</b></summary>
+<summary><b>Experiment 7: Assembler PASS-I</b></summary>
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) | Design and implementation of Pass-I Assembler | [View](System%20Software%20Lab/Experiment-7/Source Code/Assembler_Pass1.c) |
+| [Report](System%20Software%20Lab/Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) | Design and implementation of Pass-I Assembler | [View](System%20Software%20Lab/Experiment-7/Source Code/Assembler_Pass1.c) |
 
 </details>
 
 <details>
-<summary><b>🔄 Experiment 8: Assembler PASS-II</b></summary>
+<summary><b>Experiment 8: Assembler PASS-II</b></summary>
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) | Design and implementation of Pass-II Assembler | [View](System%20Software%20Lab/Experiment-8/Source Code/Assembler_Pass2.c) |
+| [Report](System%20Software%20Lab/Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) | Design and implementation of Pass-II Assembler | [View](System%20Software%20Lab/Experiment-8/Source Code/Assembler_Pass2.c) |
 
 </details>
 
 <details>
-<summary><b>🔗 Experiment 9: Macro Processor</b></summary>
+<summary><b>Experiment 9: Macro Processor</b></summary>
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) | Simulation of a one-pass Macro Processor | [View](System%20Software%20Lab/Experiment-9/Source Code/Macro_Processor.c) |
+| [Report](System%20Software%20Lab/Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) | Simulation of a one-pass Macro Processor | [View](System%20Software%20Lab/Experiment-9/Source Code/Macro_Processor.c) |
 
 </details>
 
 <details>
-<summary><b>🛠️ Experiment 10: YACC & LEX Tools</b></summary>
+<summary><b>Experiment 10: YACC & LEX Tools</b></summary>
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-10/Amey_B-50_SPCC_Lab_Experiment-10.docx) | Identification of patterns using LEX | [View](System%20Software%20Lab/Experiment-10/Source Code/Integer_Recognizer.l) |
-| [📂 All Tools](System%20Software%20Lab/Experiment-10/Source Code/) | Additional LEX/YACC implementations | [Explore](System%20Software%20Lab/Experiment-10/Source Code/) |
+| [Report](System%20Software%20Lab/Experiment-10/Amey_B-50_SPCC_Lab_Experiment-10.docx) | Identification of patterns using LEX | [View](System%20Software%20Lab/Experiment-10/Source Code/Integer_Recognizer.l) |
+| [All Tools](System%20Software%20Lab/Experiment-10/Source Code/) | Additional LEX/YACC implementations | [Explore](System%20Software%20Lab/Experiment-10/Source Code/) |
 
 </details>
 
