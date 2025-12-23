@@ -164,7 +164,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) | Three-address code generation implementation | [View](System%20Software%20Lab/Experiment-4/Source Code/SPCC-4.c) |
+| [📄 Report](System%20Software%20Lab/Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) | Implementation of Recursive Descent Parser | [View](System%20Software%20Lab/Experiment-4/Source Code/RD_Parser_Implementation.c) |
 
 </details>
 
