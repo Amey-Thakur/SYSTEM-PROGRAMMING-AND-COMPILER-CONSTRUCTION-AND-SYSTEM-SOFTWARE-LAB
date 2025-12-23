@@ -130,14 +130,14 @@ Design and implementation of Pass-I Assembler to generate Symbol Table and calcu
 <!-- =========================================================================================
                                      EXPERIMENT 8
      ========================================================================================= -->
-## 🔄 Experiment 8: Macro Processor
+## 🔄 Experiment 8: Assembler PASS-II
 
-Design of two-pass Macro Processor with MNT and MDT management.
+Design and implementation of Pass-II Assembler to generate Object Code (H, T, E records).
 
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) | Detailed experiment report | [View](Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) |
-| 💻 | [Source Code](Experiment-8/Source Code/SPCC-8.c) | C implementation for Macro Processor | [View](Experiment-8/Source Code/SPCC-8.c) |
+| 💻 | [Source Code](Experiment-8/Source Code/Assembler_Pass2.c) | C implementation for Assembler PASS-II | [View](Experiment-8/Source Code/Assembler_Pass2.c) |
 
 ---
 
