@@ -375,11 +375,26 @@ Final semester examination submission:
      ========================================================================================= -->
 ## Question Papers
 
-University of Mumbai examination papers from **2012-2019**:
+Previous year university question papers:
 
-| Exam Session | Syllabus | Resource |
-|:---|:---:|:-:|
-| [📄 Question Papers](Question%20Papers/) | CBCGS/CBGS | [📂 Browse folder](Question%20Papers/) |
+| # | Exam Session | Syllabus | Resource |
+|:-:|:---|:---:|:---:|
+| 1 | May 2019 | CBCGS | [View](Question%20Papers/2019/MAY/) |
+| 2 | December 2019 | CBCGS | [View](Question%20Papers/2019/DEC/) |
+| 3 | May 2018 | CBCGS | [View](Question%20Papers/2018/MAY/) |
+| 4 | December 2018 | CBCGS | [View](Question%20Papers/2018/DEC/) |
+| 5 | May 2017 | CBCGS | [View](Question%20Papers/2017/MAY/) |
+| 6 | December 2017 | CBCGS | [View](Question%20Papers/2017/DEC/) |
+| 7 | May 2016 | CBCGS | [View](Question%20Papers/2016/MAY/) |
+| 8 | December 2016 | CBCGS | [View](Question%20Papers/2016/DEC/) |
+| 9 | May 2015 | CBGS | [View](Question%20Papers/2015/MAY/) |
+| 10 | December 2015 | CBGS | [View](Question%20Papers/2015/DEC/) |
+| 11 | May 2014 | CBGS | [View](Question%20Papers/2014/MAY/) |
+| 12 | December 2014 | CBGS | [View](Question%20Papers/2014/DEC/) |
+| 13 | May 2013 | CBGS | [View](Question%20Papers/2013/MAY/) |
+| 14 | December 2013 | CBGS | [View](Question%20Papers/2013/DEC/) |
+| 15 | May 2012 | CBGS | [View](Question%20Papers/2012/MAY/) |
+| 16 | December 2012 | CBGS | [View](Question%20Papers/2012/DEC/) |
 
 ---
 
