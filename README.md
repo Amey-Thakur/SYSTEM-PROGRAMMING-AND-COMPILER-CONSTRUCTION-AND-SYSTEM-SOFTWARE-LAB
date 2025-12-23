@@ -161,7 +161,12 @@ Subject-specific quizzes conducted during the course:
 
 The laboratory component (CSL602) focuses on hands-on implementation of system software components including assemblers, lexical analyzers, and parsers using C and tools like LEX/YACC.
 
-![Total Experiments](https://img.shields.io/badge/Total_Experiments-10-yellowgreen?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
+<div align="center">
+
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](System%20Software%20Lab/)
+  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](System%20Software%20Lab/)
+
+</div>
 
 > [!TIP]
 > **Lab Concept**: System software development requires a strong grasp of data structures like Symbol Tables and Literal Tables. When working with LEX and YACC, always ensure your regular expressions and grammars are well-tested before integration.
