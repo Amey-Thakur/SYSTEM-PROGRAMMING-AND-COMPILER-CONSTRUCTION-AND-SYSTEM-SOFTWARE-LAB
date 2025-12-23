@@ -122,6 +122,10 @@ Academic assignments for comprehensive learning and practice:
 > ### 🤝🏻 Special Acknowledgement
 > *Special thanks to [Mega Satish](https://github.com/msatmod) and [Hasan Rizvi](https://github.com/rizvihasan) for their meaningful contributions, support, and wisdom that helped shape this work.*
 
+> [!NOTE]
+> **Research Impact**: This presentation was published on **ResearchGate** and is available for academic reference.
+> - [Presentation @ResearchGate](https://doi.org/10.13140/RG.2.2.10804.78729)
+
 Educational presentations and collaborative work:
 
 | Resource | Description | Research Link |
