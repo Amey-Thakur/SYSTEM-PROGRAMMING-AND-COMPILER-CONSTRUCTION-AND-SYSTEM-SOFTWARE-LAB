@@ -177,11 +177,11 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 | 2 | Implement Lexical Analyzer for given language using Lex tool | February 26, 2021 | 7/10 | [View](System%20Software%20Lab/Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) |
 | 3 | Implement program to remove left recursion from grammar and find first and follow | March 05, 2021 | 8/10 | [View](System%20Software%20Lab/Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) |
 | 4 | Implement any parsing technique | March 26, 2021 | 8/10 | [View](System%20Software%20Lab/Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) |
-| 5 | Implement any code optimization techniques | April 09, 2021 | 8/10 | [View](System%20Software%20Lab/Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) |
-| 6 | Generate target code | April 23, 2021 | 8/10 | [View](System%20Software%20Lab/Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) |
-| 7 | Design and implement first pass of a two pass assembler for IBM 360/370 Processor | May 07, 2021 | 8/10 | [View](System%20Software%20Lab/Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) |
-| 8 | Design and implement second pass of a two pass assembler for IBM 360/370 Processor | May 21, 2021 | 7/10 | [View](System%20Software%20Lab/Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) |
-| 9 | Design and Implement two pass Macro Processor | June 04, 2021 | 8/10 | [View](System%20Software%20Lab/Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) |
+| 5 | Implement any code optimization techniques | March 30, 2021 | 8/10 | [View](System%20Software%20Lab/Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) |
+| 6 | Generate target code | April 09, 2021 | 8/10 | [View](System%20Software%20Lab/Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) |
+| 7 | Design and implement first pass of a two pass assembler for IBM 360/370 Processor | April 30, 2021 | 8/10 | [View](System%20Software%20Lab/Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) |
+| 8 | Design and implement second pass of a two pass assembler for IBM 360/370 Processor | April 30, 2021 | 7/10 | [View](System%20Software%20Lab/Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) |
+| 9 | Design and Implement two pass Macro Processor | May 07, 2021 | 8/10 | [View](System%20Software%20Lab/Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) |
 | 10 | Write a LEX-YACC specification program for 3-address intermediate code generation | July 02, 2021 | 10/10 | [View](System%20Software%20Lab/Experiment-10/Amey_B-50_SPCC_Lab_Experiment-10.pdf) |
 
 ### Program Details
