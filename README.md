@@ -435,7 +435,10 @@ This repository is openly shared to support learning and knowledge exchange acro
 Use these resources as reference materials for understanding system software architecture, compiler phases, and preparing for examinations. All content is organized for self-paced learning.
 
 **For Educators**  
-These materials may serve as curriculum references, assignment examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
+These materials may serve as curriculum references, lab examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The documentation and organization may provide insights into academic resource curation and educational content structuring.
 
 ---
 
