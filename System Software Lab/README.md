@@ -95,7 +95,7 @@ Implementation of constant folding and common sub-expression elimination techniq
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) | Detailed experiment report | [View](Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) |
-| 💻 | [Source Code](Experiment-5/Source Code/SPCC-5.c) | C implementation for optimizations | [View](Experiment-5/Source Code/SPCC-5.c) |
+| 💻 | [Source Code](Experiment-5/Source Code/Code_Optimization.c) | C implementation for optimizations | [View](Experiment-5/Source Code/Code_Optimization.c) |
 
 ---
 

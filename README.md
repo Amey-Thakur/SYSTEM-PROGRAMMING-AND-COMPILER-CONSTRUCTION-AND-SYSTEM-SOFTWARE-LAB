@@ -173,7 +173,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) | Constant folding and sub-expression elimination | [View](System%20Software%20Lab/Experiment-5/Source Code/SPCC-5.c) |
+| [📄 Report](System%20Software%20Lab/Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) | Writing a program for Code Optimization | [View](System%20Software%20Lab/Experiment-5/Source Code/Code_Optimization.c) |
 
 </details>
 
