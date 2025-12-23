@@ -298,11 +298,11 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
      ========================================================================================= -->
 ## Mock Test
 
-Technical mock test conducted for placement and technical proficiency:
+Technical mock test conducted for placement preparation:
 
-| Resource | Description | Link |
-|:---|:---|:-:|
-| **Technical Mock Test** | Campus Corners Mock Test - Terna Engineering College | [📄 View](Technical%20Mock%20Test-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners!.pdf) |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Technical Mock Test](Technical%20Mock%20Test-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners!.pdf) | Campus Corners Mock Test for Terna Engineering College |
 
 ---
 
