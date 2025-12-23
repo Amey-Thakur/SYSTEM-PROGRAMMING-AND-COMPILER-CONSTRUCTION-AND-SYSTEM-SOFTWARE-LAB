@@ -357,6 +357,7 @@ Final semester examination submission:
 |:-:|:---|:---|
 | 1 | [Answer Sheet Template](Semester%20Exam/SPCC.pdf) | Semester Exam Answer Sheet Template |
 | 2 | [SPCC Questions](Semester%20Exam/SPCC_QUESTIONS.docx) | SPCC Exam Questions Document |
+| 3 | [Attendance Proof](Semester%20Exam/Screenshot%202021-06-04%20at%2011.35.52%20AM.png) | Exam Attendance (June 04, 2021 at 11:35 AM) |
 
 ---
 
