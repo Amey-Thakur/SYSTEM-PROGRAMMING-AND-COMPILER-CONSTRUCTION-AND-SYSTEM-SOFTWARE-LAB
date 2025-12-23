@@ -166,8 +166,6 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 > [!TIP]
 > **Lab Concept**: System software development requires a strong grasp of data structures like Symbol Tables and Literal Tables. When working with LEX and YACC, always ensure your regular expressions and grammars are well-tested before integration.
 
-**[📂 View Detailed Laboratory Documentation](System%20Software%20Lab/)**
-
 | # | Experiment | Marks | Report |
 |:-:|:---|:---:|:-:|
 | 1 | Develop a program to implement lexical analyzer using Finite Automata | 9/10 | [View](System%20Software%20Lab/Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) |
