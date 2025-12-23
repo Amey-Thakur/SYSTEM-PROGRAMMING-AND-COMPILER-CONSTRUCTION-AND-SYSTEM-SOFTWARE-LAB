@@ -205,11 +205,11 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 </details>
 
 <details>
-<summary><b>🔗 Experiment 9: Linker and Loader</b></summary>
+<summary><b>🔗 Experiment 9: Macro Processor</b></summary>
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) | Simulation of Direct-linking Loader | [View](System%20Software%20Lab/Experiment-9/Source Code/SPCC-9.c) |
+| [📄 Report](System%20Software%20Lab/Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) | Simulation of a one-pass Macro Processor | [View](System%20Software%20Lab/Experiment-9/Source Code/Macro_Processor.c) |
 
 </details>
 

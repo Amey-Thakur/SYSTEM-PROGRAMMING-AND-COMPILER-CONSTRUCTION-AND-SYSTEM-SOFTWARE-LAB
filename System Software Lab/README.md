@@ -144,14 +144,14 @@ Design and implementation of Pass-II Assembler to generate Object Code (H, T, E 
 <!-- =========================================================================================
                                      EXPERIMENT 9
      ========================================================================================= -->
-## 🔗 Experiment 9: Linker and Loader
+## 🔗 Experiment 9: Macro Processor
 
-Simulation of Direct-linking Loader for program relocation and linking.
+Simulation of a one-pass Macro Processor handling definition and expansion.
 
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) | Detailed experiment report | [View](Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) |
-| 💻 | [Source Code](Experiment-9/Source Code/SPCC-9.c) | C implementation for Loader simulation | [View](Experiment-9/Source Code/SPCC-9.c) |
+| 💻 | [Source Code](Experiment-9/Source Code/Macro_Processor.c) | C implementation for Macro Processor | [View](Experiment-9/Source Code/Macro_Processor.c) |
 
 ---
 
