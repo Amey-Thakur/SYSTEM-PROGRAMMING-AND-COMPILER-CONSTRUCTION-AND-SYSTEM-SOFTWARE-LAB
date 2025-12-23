@@ -251,7 +251,7 @@ Parser development using YACC tool for various grammatical structures.
 
 <div align="center">
 
-  ### [System Software Lab](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB/tree/main/System%20Software%20Lab)
+  ***System Programming and Compiler Construction and System Software Lab***
 
   **CSL602 · Semester VI · Computer Engineering**
 
