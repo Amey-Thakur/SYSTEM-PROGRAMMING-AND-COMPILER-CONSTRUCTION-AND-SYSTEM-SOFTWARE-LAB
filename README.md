@@ -109,7 +109,7 @@ Academic assignments for comprehensive learning and practice:
 | 2 | [**Assignment 2**](Assignments/Amey_B-50_SPCC_Assignment-2.pdf) | Forward Reference, Assemblers (Pass-I & Pass-II), Loaders, Direct Linking, Macro Processors | April 20, 2021 | — |
 | 3 | [**Assignment 3**](Assignments/Amey_B-50_SPCC_Assignment-3.pdf) | Case Study on Compiler Construction Tools (LEX and YACC) | April 30, 2021 | — |
 
-**Topics Covered**: Fundamentals of Language Processing · Assembler PASS-I and PASS-II · Macro Definition and Expansion · Relocation and Linking Concepts · Loader Schemes · Compiler Phases and Grammars
+**Topics Covered**: System Programming Fundamentals · Error Recovery Techniques · Operator Precedence Parsing · Code Optimization · DAG Representation · Forward Reference Problem · Assembler PASS-I and PASS-II · Loaders and Direct Linking · Macro Processors · Compiler Construction Tools (LEX and YACC)
 
 ---
 
