@@ -128,11 +128,11 @@ Academic assignments for comprehensive learning and practice:
 
 Educational presentations and collaborative work:
 
-| Resource | Description | Research Link |
-|:---|:---|:-:|
-| **SPCC Presentation** | Linker & Loader architecture and functionality | [Presentation](http://dx.doi.org/10.13140/RG.2.2.10804.78729) |
-| [PPTX](Classwork/SPCC_PRESENTATION_B-50,51,58.pptx) | Original presentation file (PowerPoint) | — |
-| [PDF](Classwork/SPCC_PRESENTATION_B-50,51,58.pdf) | Presentation document version | — |
+| # | Resource | Description | Research Link |
+|:-:|:---|:---|:-:|
+| 1 | **SPCC Presentation** | Linker & Loader architecture and functionality | [Presentation](http://dx.doi.org/10.13140/RG.2.2.10804.78729) |
+| 2 | [PPTX](Classwork/SPCC_PRESENTATION_B-50,51,58.pptx) | Original presentation file (PowerPoint) | — |
+| 3 | [PDF](Classwork/SPCC_PRESENTATION_B-50,51,58.pdf) | Presentation document version | — |
 
 ---
 
