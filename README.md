@@ -143,10 +143,10 @@ Educational presentations and collaborative work:
 
 Subject-specific quizzes conducted during the course:
 
-| # | Quiz | Topics | Marks |
-|:-:|:---|:---|:---:|
-| 1 | [**Quiz 1**](Quizzes/Quiz%201%20-%20TE%20SPCC.pdf) | Introduction to Language Processors and Assemblers | — |
-| 2 | [**Quiz 6**](Quizzes/Quiz%206%20-%20TE%20SPCC.pdf) | Compiler Construction and Optimization | — |
+| # | Quiz | Topics | Date | Marks |
+|:-:|:---|:---|:---:|:---:|
+| 1 | [**Quiz 1**](Quizzes/Quiz%201%20-%20TE%20SPCC.pdf) | Introduction to System Softwares | April 13, 2021 | 10/10 |
+| 2 | [**Quiz 6**](Quizzes/Quiz%206%20-%20TE%20SPCC.pdf) | Compiler Construction and Optimization | — | — |
 
 ---
 
