@@ -179,7 +179,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 | 7 | **Assembler Pass-I** | Design and implement first pass of a two pass assembler for IBM 360/370 Processor | 8/10 | [View](System%20Software%20Lab/Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) |
 | 8 | **Assembler Pass-II** | Design and implement second pass of a two pass assembler for IBM 360/370 Processor | 7/10 | [View](System%20Software%20Lab/Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) |
 | 9 | **Two Pass Macro Processor** | Design and Implement two pass Macro Processor | 8/10 | [View](System%20Software%20Lab/Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) |
-| 10 | **Calculator using YACC** | Implementation of calculator using YACC parser generator | 8/10 | [View](System%20Software%20Lab/Experiment-10/Amey_B-50_SPCC_Lab_Experiment-10.pdf) |
+| 10 | **LEX-YACC for 3-Address ICG** | Write a LEX-YACC specification program for 3-address intermediate code generation | 10/10 | [View](System%20Software%20Lab/Experiment-10/Amey_B-50_SPCC_Lab_Experiment-10.pdf) |
 
 ### Program Details
 
