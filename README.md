@@ -18,7 +18,7 @@
 
   ---
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [📝 Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧪 Laboratory](#system-software-laboratory) &nbsp;·&nbsp; [📊 Classwork](#classwork) &nbsp;·&nbsp; [🧠 Quizzes](#quizzes) &nbsp;·&nbsp; [🧩 Mock Test](#mock-test) &nbsp;·&nbsp; [✒️ IAT](#internal-assessment-test) &nbsp;·&nbsp; [🎓 Semester Exam](#semester-exam) &nbsp;·&nbsp; [📑 Question Papers](#question-papers) &nbsp;·&nbsp; [✅ Submission Report](#submission-completion-report) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Laboratory](#system-software-laboratory) &nbsp;·&nbsp; [Classwork](#classwork) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [IAT](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -91,11 +91,11 @@ This collection includes **comprehensive reference materials** covering all majo
 
 Study materials and planning resources for effective exam preparation:
 
-| Resource | Description |
-|:---|:---|
-| [📄 Blueprint](Blueprint%20(SPCC).png) | SPCC exam blueprint and marking scheme |
-| [📊 Semester 6 Timetable](SEMESTER%20VI.jpeg) | Academic schedule for Semester VI |
-| [📋 Computer Semester 6 Timetable](Computer%20Semester%206%20Timetable.pdf) | Detailed computer engineering timetable |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Blueprint](Blueprint%20(SPCC).png) | SPCC exam blueprint and marking scheme |
+| 2 | [Semester 6 Timetable](SEMESTER%20VI.jpeg) | Academic schedule for Semester VI |
+| 3 | [Computer Semester 6 Timetable](Computer%20Semester%206%20Timetable.pdf) | Detailed computer engineering timetable |
 
 ---
 
@@ -103,11 +103,11 @@ Study materials and planning resources for effective exam preparation:
 
 Academic assignments for comprehensive learning and practice:
 
-| # | Assignment | Description | Link |
-|:-:|:---|:---|:-:|
-| 1 | **Assignment 1** | Language Processors, Data Structures, and Assembler Design | [📄 View](Assignments/Amey_B-50_SPCC_Assignment-1.pdf) |
-| 2 | **Assignment 2** | Macro Processors, Linkers, and Loaders | [📄 View](Assignments/Amey_B-50_SPCC_Assignment-2.pdf) |
-| 3 | **Assignment 3** | Compilers - Lexical, Syntax, and Semantic Analysis | [📄 View](Assignments/Amey_B-50_SPCC_Assignment-3.pdf) |
+| # | Assignment | Description | Date | Marks |
+|:-:|:---|:---|:---:|:---:|
+| 1 | [**Assignment 1**](Assignments/Amey_B-50_SPCC_Assignment-1.pdf) | Language Processors, Data Structures, and Assembler Design | — | — |
+| 2 | [**Assignment 2**](Assignments/Amey_B-50_SPCC_Assignment-2.pdf) | Macro Processors, Linkers, and Loaders | — | — |
+| 3 | [**Assignment 3**](Assignments/Amey_B-50_SPCC_Assignment-3.pdf) | Compilers - Lexical, Syntax, and Semantic Analysis | — | — |
 
 **Topics Covered**: Fundamentals of Language Processing · Assembler PASS-I and PASS-II · Macro Definition and Expansion · Relocation and Linking Concepts · Loader Schemes · Compiler Phases and Grammars
 
@@ -225,9 +225,9 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 ### Laboratory Documentation
 
-| Resource | Description |
-|:---|:---|
-| 📖 [Lab README](System%20Software%20Lab/README.md) | Detailed navigation guide with program descriptions |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Lab README](System%20Software%20Lab/README.md) | Detailed navigation guide with program descriptions |
 
 ---
 
@@ -253,10 +253,10 @@ Educational presentations and collaborative work:
 
 Subject-specific quizzes conducted during the course:
 
-| Quiz | Topics | Resource |
-|:---|:---|:-:|
-| Quiz 1 | Introduction to Language Processors and Assemblers | [📄 View](Quizzes/Quiz%201%20-%20TE%20SPCC.pdf) |
-| Quiz 6 | Compiler Construction and Optimization | [📄 View](Quizzes/Quiz%206%20-%20TE%20SPCC.pdf) |
+| # | Quiz | Topics | Marks |
+|:-:|:---|:---|:---:|
+| 1 | [**Quiz 1**](Quizzes/Quiz%201%20-%20TE%20SPCC.pdf) | Introduction to Language Processors and Assemblers | — |
+| 2 | [**Quiz 6**](Quizzes/Quiz%206%20-%20TE%20SPCC.pdf) | Compiler Construction and Optimization | — |
 
 ---
 
@@ -362,6 +362,9 @@ These materials may serve as curriculum references, assignment examples, or supp
 
 This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
 
+> [!NOTE]
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+
 ---
 
 <!-- =========================================================================================
@@ -392,9 +395,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[⬆ Back to Top](#system-programming-and-compiler-construction-and-system-software-lab)**
+  **[↑ Back to Top](#system-programming-and-compiler-construction-and-system-software-lab)**
 
-  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[📝 Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[🧪 Laboratory](#system-software-laboratory)** &nbsp;·&nbsp; **[📊 Classwork](#classwork)** &nbsp;·&nbsp; **[🧠 Quizzes](#quizzes)** &nbsp;·&nbsp; **[🧩 Mock Test](#mock-test)** &nbsp;·&nbsp; **[✒️ IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[🎓 Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[📑 Question Papers](#question-papers)** &nbsp;·&nbsp; **[✅ Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Laboratory](#system-software-laboratory)** &nbsp;·&nbsp; **[Classwork](#classwork)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Mock Test](#mock-test)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+
+  <br>
+
+  **[System Software Lab](System%20Software%20Lab/README.md)**
 
 </div>
 
