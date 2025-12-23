@@ -21,6 +21,14 @@
 
 ---
 
+> [!TIP]
+> **Lab Manual**: This directory contains comprehensive reports for all experiments conducted during the course. For theoretical concepts on Assemblers, Compilers, and Language Processors, please visit the [Reference Books](../README.md#reference-books) in the main repository.
+
+> [!WARNING]
+> **Compilation Requirements**: When compiling LEX files, always ensure the `-lfl` library is linked or define `yywrap()` to avoid linker errors. For Assembler experiments (Pass-I/II), verify that `INPUT.txt` and `OPTAB.txt` are in the same directory as the executable.
+
+---
+
 <!-- =========================================================================================
                                      OVERVIEW SECTION
      ========================================================================================= -->
