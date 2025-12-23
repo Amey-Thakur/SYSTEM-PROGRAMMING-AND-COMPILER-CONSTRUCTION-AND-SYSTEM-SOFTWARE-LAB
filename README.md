@@ -116,7 +116,7 @@ Academic assignments for comprehensive learning and practice:
 <!-- =========================================================================================
                                      CLASSWORK SECTION
      ========================================================================================= -->
-## Classwork
+### Classwork
 
 Educational presentations and collaborative work:
 
@@ -131,7 +131,7 @@ Educational presentations and collaborative work:
 <!-- =========================================================================================
                                      QUIZZES SECTION
      ========================================================================================= -->
-## Quizzes
+### Quizzes
 
 Subject-specific quizzes conducted during the course:
 
