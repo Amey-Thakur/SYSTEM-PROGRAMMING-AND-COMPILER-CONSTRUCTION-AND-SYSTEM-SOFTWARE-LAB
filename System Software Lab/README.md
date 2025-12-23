@@ -15,7 +15,7 @@
 
   ---
 
-  **[🛠️ Experiment 1](#experiment-1-symbol-table-implementation)** &nbsp;·&nbsp; **[🔍 Experiment 2](#experiment-2-lexical-analysis)** &nbsp;·&nbsp; **[🏗️ Experiment 3](#experiment-3-parsing-techniques)** &nbsp;·&nbsp; **[🚦 Experiment 4](#experiment-4-intermediate-code-generation)** &nbsp;·&nbsp; **[⚙️ Experiment 5](#experiment-5-code-optimization)** &nbsp;·&nbsp; **[📝 Experiment 6](#experiment-6-target-code-generation)** &nbsp;·&nbsp; **[🧩 Experiment 7](#experiment-7-assembler-pass-i)** &nbsp;·&nbsp; **[🔄 Experiment 8](#experiment-8-assembler-pass-ii)** &nbsp;·&nbsp; **[🔗 Experiment 9](#experiment-9-macro-processor)** &nbsp;·&nbsp; **[🛠️ Experiment 10](#experiment-10-yacc--lex-tools)** &nbsp;·&nbsp; **[🚀 How to Use](#how-to-use)** &nbsp;·&nbsp; **[📖 Learning Path](#learning-path)**
+  **[Experiment 1](#experiment-1-symbol-table-implementation)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-lexical-analysis)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-parsing-techniques)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-intermediate-code-generation)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-code-optimization)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-target-code-generation)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-assembler-pass-i)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-assembler-pass-ii)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-macro-processor)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-yacc--lex-tools)** &nbsp;·&nbsp; **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)**
 
 </div>
 
@@ -32,7 +32,7 @@
 <!-- =========================================================================================
                                      EXPERIMENT 1
      ========================================================================================= -->
-## 🛠️ Experiment 1: Symbol Table Implementation
+## Experiment 1: Symbol Table Implementation
 
 Implementation of Symbol Table using C to manage identifiers and their properties.
 
@@ -46,7 +46,7 @@ Implementation of Symbol Table using C to manage identifiers and their propertie
 <!-- =========================================================================================
                                      EXPERIMENT 2
      ========================================================================================= -->
-## 🔍 Experiment 2: Lexical Analysis
+## Experiment 2: Lexical Analysis
 
 Scanner development using LEX tool to identify tokens in a source program.
 
@@ -62,7 +62,7 @@ Scanner development using LEX tool to identify tokens in a source program.
 <!-- =========================================================================================
                                      EXPERIMENT 3
      ========================================================================================= -->
-## 🏗️ Experiment 3: Parsing Techniques
+## Experiment 3: Parsing Techniques
 
 Implementation of FIRST and FOLLOW sets calculation for syntax analysis of grammars.
 
@@ -77,7 +77,7 @@ Implementation of FIRST and FOLLOW sets calculation for syntax analysis of gramm
 <!-- =========================================================================================
                                      EXPERIMENT 4
      ========================================================================================= -->
-## 🚦 Experiment 4: Intermediate Code Generation
+## Experiment 4: Intermediate Code Generation
 
 Implementation of Recursive Descent Parser for syntax analysis of grammars.
 
@@ -91,7 +91,7 @@ Implementation of Recursive Descent Parser for syntax analysis of grammars.
 <!-- =========================================================================================
                                      EXPERIMENT 5
      ========================================================================================= -->
-## ⚙️ Experiment 5: Code Optimization
+## Experiment 5: Code Optimization
 
 Implementation of constant folding and common sub-expression elimination techniques.
 
@@ -105,7 +105,7 @@ Implementation of constant folding and common sub-expression elimination techniq
 <!-- =========================================================================================
                                      EXPERIMENT 6
      ========================================================================================= -->
-## 📝 Experiment 6: Target Code Generation
+## Experiment 6: Target Code Generation
 
 Implementation of Target Code Generation logic including MOV and arithmetic instructions.
 
@@ -119,7 +119,7 @@ Implementation of Target Code Generation logic including MOV and arithmetic inst
 <!-- =========================================================================================
                                      EXPERIMENT 7
      ========================================================================================= -->
-## 🧩 Experiment 7: Assembler PASS-I
+## Experiment 7: Assembler PASS-I
 
 Design and implementation of Pass-I Assembler to generate Symbol Table and calculate program length.
 
@@ -136,7 +136,7 @@ Design and implementation of Pass-I Assembler to generate Symbol Table and calcu
 <!-- =========================================================================================
                                      EXPERIMENT 8
      ========================================================================================= -->
-## 🔄 Experiment 8: Assembler PASS-II
+## Experiment 8: Assembler PASS-II
 
 Design and implementation of Pass-II Assembler to generate Object Code (H, T, E records).
 
@@ -150,7 +150,7 @@ Design and implementation of Pass-II Assembler to generate Object Code (H, T, E 
 <!-- =========================================================================================
                                      EXPERIMENT 9
      ========================================================================================= -->
-## 🔗 Experiment 9: Macro Processor
+## Experiment 9: Macro Processor
 
 Simulation of a one-pass Macro Processor handling definition and expansion.
 
@@ -164,7 +164,7 @@ Simulation of a one-pass Macro Processor handling definition and expansion.
 <!-- =========================================================================================
                                      EXPERIMENT 10
      ========================================================================================= -->
-## 🛠️ Experiment 10: YACC & LEX Tools
+## Experiment 10: YACC & LEX Tools
 
 Parser development using YACC tool for various grammatical structures.
 
@@ -179,7 +179,7 @@ Parser development using YACC tool for various grammatical structures.
 <!-- =========================================================================================
                                      HOW TO USE SECTION
      ========================================================================================= -->
-## 🚀 How to Use
+## How to Use
 
 ### Running C Programs
 1. **Navigate** to the desired experiment folder.
@@ -213,7 +213,7 @@ gcc lex.yy.c -o lexer -lfl
 <!-- =========================================================================================
                                      LEARNING PATH SECTION
      ========================================================================================= -->
-## 📖 Learning Path
+## Learning Path
 
 **Beginner Level:**
 - Start with **Experiment 1** to understand DFA implementation and Symbol Table concepts.
@@ -237,7 +237,7 @@ gcc lex.yy.c -o lexer -lfl
   <!-- Footer Navigation -->
   **[⬆ Back to Top](#system-software-lab)**
 
-  **[🛠️ Experiment 1](#experiment-1-symbol-table-implementation)** &nbsp;·&nbsp; **[🔍 Experiment 2](#experiment-2-lexical-analysis)** &nbsp;·&nbsp; **[🏗️ Experiment 3](#experiment-3-parsing-techniques)** &nbsp;·&nbsp; **[🚦 Experiment 4](#experiment-4-intermediate-code-generation)** &nbsp;·&nbsp; **[⚙️ Experiment 5](#experiment-5-code-optimization)** &nbsp;·&nbsp; **[📝 Experiment 6](#experiment-6-target-code-generation)** &nbsp;·&nbsp; **[🧩 Experiment 7](#experiment-7-assembler-pass-i)** &nbsp;·&nbsp; **[🔄 Experiment 8](#experiment-8-assembler-pass-ii)** &nbsp;·&nbsp; **[🔗 Experiment 9](#experiment-9-macro-processor)** &nbsp;·&nbsp; **[🛠️ Experiment 10](#experiment-10-yacc--lex-tools)** &nbsp;·&nbsp; **[🚀 How to Use](#how-to-use)** &nbsp;·&nbsp; **[📖 Learning Path](#learning-path)**
+  **[Experiment 1](#experiment-1-symbol-table-implementation)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-lexical-analysis)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-parsing-techniques)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-intermediate-code-generation)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-code-optimization)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-target-code-generation)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-assembler-pass-i)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-assembler-pass-ii)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-macro-processor)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-yacc--lex-tools)** &nbsp;·&nbsp; **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)**
 
   <br>
 
