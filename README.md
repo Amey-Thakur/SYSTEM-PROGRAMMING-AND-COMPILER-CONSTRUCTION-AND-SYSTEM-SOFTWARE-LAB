@@ -155,7 +155,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) | Implementation of Recursive Descent Parser | [View](System%20Software%20Lab/Experiment-3/Source Code/SPCC-3.c) |
+| [📄 Report](System%20Software%20Lab/Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) | Calculation of FIRST and FOLLOW sets using C | [View](System%20Software%20Lab/Experiment-3/Source Code/First_Follow_Implementation.c) |
 
 </details>
 
