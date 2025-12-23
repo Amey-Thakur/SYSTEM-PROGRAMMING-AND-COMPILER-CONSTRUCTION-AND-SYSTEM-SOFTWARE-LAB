@@ -331,7 +331,7 @@ Internal assessment evaluations conducted during the course:
 
 | # | Resource | Description | Link |
 |:-:|:---|:---|:---:|
-| 1 | **Question Paper** | SPCC IAT Question Paper | [View](Internal%20Assessment%20Test/SPCC.pdf) |
+| 1 | **Answer Sheet Template** | IAT Answer Sheet Template | [View](Internal%20Assessment%20Test/SPCC.pdf) |
 
 ---
 
