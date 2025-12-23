@@ -18,7 +18,7 @@
 
   ---
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Laboratory](#system-software-laboratory) &nbsp;·&nbsp; [Classwork](#classwork) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [IAT](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Classwork](#classwork) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#system-software-laboratory) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [IAT](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -110,6 +110,35 @@ Academic assignments for comprehensive learning and practice:
 | 3 | [**Assignment 3**](Assignments/Amey_B-50_SPCC_Assignment-3.pdf) | Compilers - Lexical, Syntax, and Semantic Analysis | — | — |
 
 **Topics Covered**: Fundamentals of Language Processing · Assembler PASS-I and PASS-II · Macro Definition and Expansion · Relocation and Linking Concepts · Loader Schemes · Compiler Phases and Grammars
+
+---
+
+<!-- =========================================================================================
+                                     CLASSWORK SECTION
+     ========================================================================================= -->
+## Classwork
+
+Educational presentations and collaborative work:
+
+| Resource | Description | Research Link |
+|:---|:---|:-:|
+| **SPCC Presentation** | Linker & Loader architecture and functionality | [Presentation](http://dx.doi.org/10.13140/RG.2.2.10804.78729) |
+| [📄 PPTX](Classwork/SPCC_PRESENTATION_B-50,51,58.pptx) | Original presentation file (PowerPoint) | — |
+| [📄 PDF](Classwork/SPCC_PRESENTATION_B-50,51,58.pdf) | Presentation document version | — |
+
+---
+
+<!-- =========================================================================================
+                                     QUIZZES SECTION
+     ========================================================================================= -->
+## Quizzes
+
+Subject-specific quizzes conducted during the course:
+
+| # | Quiz | Topics | Marks |
+|:-:|:---|:---|:---:|
+| 1 | [**Quiz 1**](Quizzes/Quiz%201%20-%20TE%20SPCC.pdf) | Introduction to Language Processors and Assemblers | — |
+| 2 | [**Quiz 6**](Quizzes/Quiz%206%20-%20TE%20SPCC.pdf) | Compiler Construction and Optimization | — |
 
 ---
 
@@ -231,34 +260,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 ---
 
-<!-- =========================================================================================
-                                     CLASSWORK SECTION
-     ========================================================================================= -->
-## Classwork
 
-Educational presentations and collaborative work:
-
-| Resource | Description | Research Link |
-|:---|:---|:-:|
-| **SPCC Presentation** | Linker & Loader architecture and functionality | [Presentation](http://dx.doi.org/10.13140/RG.2.2.10804.78729) |
-| [📄 PPTX](Classwork/SPCC_PRESENTATION_B-50,51,58.pptx) | Original presentation file (PowerPoint) | — |
-| [📄 PDF](Classwork/SPCC_PRESENTATION_B-50,51,58.pdf) | Presentation document version | — |
-
----
-
-<!-- =========================================================================================
-                                     QUIZZES SECTION
-     ========================================================================================= -->
-## Quizzes
-
-Subject-specific quizzes conducted during the course:
-
-| # | Quiz | Topics | Marks |
-|:-:|:---|:---|:---:|
-| 1 | [**Quiz 1**](Quizzes/Quiz%201%20-%20TE%20SPCC.pdf) | Introduction to Language Processors and Assemblers | — |
-| 2 | [**Quiz 6**](Quizzes/Quiz%206%20-%20TE%20SPCC.pdf) | Compiler Construction and Optimization | — |
-
----
 
 <!-- =========================================================================================
                                      MOCK TEST SECTION
@@ -397,7 +399,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
   <!-- Footer Navigation -->
   **[↑ Back to Top](#system-programming-and-compiler-construction-and-system-software-lab)**
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Laboratory](#system-software-laboratory)** &nbsp;·&nbsp; **[Classwork](#classwork)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Mock Test](#mock-test)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Classwork](#classwork)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Laboratory](#system-software-laboratory)** &nbsp;·&nbsp; **[Mock Test](#mock-test)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
   <br>
 
