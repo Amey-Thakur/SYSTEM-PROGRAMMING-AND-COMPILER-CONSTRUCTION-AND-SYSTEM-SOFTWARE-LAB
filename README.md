@@ -146,7 +146,11 @@ Subject-specific quizzes conducted during the course:
 | # | Quiz | Topics | Date | Marks |
 |:-:|:---|:---|:---:|:---:|
 | 1 | [**Quiz 1**](Quizzes/Quiz%201%20-%20TE%20SPCC.pdf) | Introduction to System Softwares | April 13, 2021 | 10/10 |
-| 2 | [**Quiz 6**](Quizzes/Quiz%206%20-%20TE%20SPCC.pdf) | Compiler Construction and Optimization | — | — |
+| 2 | **Quiz 2** | — | — | 10/10 |
+| 3 | **Quiz 3** | — | — | 10/10 |
+| 4 | **Quiz 4** | — | — | 10/10 |
+| 5 | **Quiz 5** | — | — | 10/10 |
+| 6 | [**Quiz 6**](Quizzes/Quiz%206%20-%20TE%20SPCC.pdf) | Compiler Construction and Optimization | — | 10/10 |
 
 ---
 
