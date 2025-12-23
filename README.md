@@ -137,7 +137,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Amey_B-50_SPCC_Lab_Experiment-1.pdf) | Implementation of Symbol Table using C | [View](System%20Software%20Lab/Programs/SPCC-1/SPCC-1.c) |
+| [📄 Report](System%20Software%20Lab/Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) | Implementation of Symbol Table using C | [View](System%20Software%20Lab/Experiment-1/Program/SPCC-1.c) |
 
 </details>
 
@@ -146,7 +146,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Amey_B-50_SPCC_Lab_Experiment-2.pdf) | Scanner development using LEX tool | [View](System%20Software%20Lab/Programs/SPCC-2/SPCC-2.l) |
+| [📄 Report](System%20Software%20Lab/Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) | Scanner development using LEX tool | [View](System%20Software%20Lab/Experiment-2/Program/SPCC-2.l) |
 
 </details>
 
@@ -155,7 +155,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Amey_B-50_SPCC_Lab_Experiment-3.pdf) | Implementation of Recursive Descent Parser | [View](System%20Software%20Lab/Programs/SPCC-3/SPCC-3.c) |
+| [📄 Report](System%20Software%20Lab/Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) | Implementation of Recursive Descent Parser | [View](System%20Software%20Lab/Experiment-3/Program/SPCC-3.c) |
 
 </details>
 
@@ -164,7 +164,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Amey_B-50_SPCC_Lab_Experiment-4.pdf) | Three-address code generation implementation | [View](System%20Software%20Lab/Programs/SPCC-4/SPCC-4.c) |
+| [📄 Report](System%20Software%20Lab/Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) | Three-address code generation implementation | [View](System%20Software%20Lab/Experiment-4/Program/SPCC-4.c) |
 
 </details>
 
@@ -173,7 +173,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Amey_B-50_SPCC_Lab_Experiment-5.pdf) | Constant folding and sub-expression elimination | [View](System%20Software%20Lab/Programs/SPCC-5/SPCC-5.c) |
+| [📄 Report](System%20Software%20Lab/Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) | Constant folding and sub-expression elimination | [View](System%20Software%20Lab/Experiment-5/Program/SPCC-5.c) |
 
 </details>
 
@@ -182,7 +182,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Amey_B-50_SPCC_Lab_Experiment-6.pdf) | Implementation of One-pass Assembler logic | [View](System%20Software%20Lab/Programs/SPCC-6/SPCC-6.c) |
+| [📄 Report](System%20Software%20Lab/Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) | Implementation of One-pass Assembler logic | [View](System%20Software%20Lab/Experiment-6/Program/SPCC-6.c) |
 
 </details>
 
@@ -191,7 +191,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Amey_B-50_SPCC_Lab_Experiment-7.pdf) | Design and implementation of Multi-pass Assembler | [View](System%20Software%20Lab/Programs/SPCC-7/SPCC-7.c) |
+| [📄 Report](System%20Software%20Lab/Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) | Design and implementation of Multi-pass Assembler | [View](System%20Software%20Lab/Experiment-7/Program/SPCC-7.c) |
 
 </details>
 
@@ -200,7 +200,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Amey_B-50_SPCC_Lab_Experiment-8.pdf) | Design of two-pass Macro Processor | [View](System%20Software%20Lab/Programs/SPCC-8/SPCC-8.c) |
+| [📄 Report](System%20Software%20Lab/Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) | Design of two-pass Macro Processor | [View](System%20Software%20Lab/Experiment-8/Program/SPCC-8.c) |
 
 </details>
 
@@ -209,7 +209,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Amey_B-50_SPCC_Lab_Experiment-9.pdf) | Simulation of Direct-linking Loader | [View](System%20Software%20Lab/Programs/SPCC-9/SPCC-9.c) |
+| [📄 Report](System%20Software%20Lab/Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) | Simulation of Direct-linking Loader | [View](System%20Software%20Lab/Experiment-9/Program/SPCC-9.c) |
 
 </details>
 
@@ -218,7 +218,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📂 Report Folder](System%20Software%20Lab/Programs/SPCC-10/) | Parser development using YACC for grammars | [View](System%20Software%20Lab/Programs/SPCC-10/) |
+| [📂 Report Folder](System%20Software%20Lab/Experiment-10/) | Parser development using YACC for grammars | [View](System%20Software%20Lab/Experiment-10/Program/) |
 
 </details>
 
