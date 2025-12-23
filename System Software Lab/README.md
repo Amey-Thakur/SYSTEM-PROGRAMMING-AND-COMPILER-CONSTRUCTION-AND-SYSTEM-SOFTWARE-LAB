@@ -158,7 +158,7 @@ Simulation of a one-pass Macro Processor handling definition and expansion.
 <!-- =========================================================================================
                                      EXPERIMENT 10
      ========================================================================================= -->
-## 🛠️ Experiment 10: YACC Tools
+## 🛠️ Experiment 10: YACC & LEX Tools
 
 Parser development using YACC tool for various grammatical structures.
 
