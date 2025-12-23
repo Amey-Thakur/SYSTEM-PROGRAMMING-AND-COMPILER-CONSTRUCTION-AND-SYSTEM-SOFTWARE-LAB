@@ -36,7 +36,7 @@ Implementation of Symbol Table using C to manage identifiers and their propertie
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) | Detailed experiment report | [View](Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) |
-| 💻 | [Source Code](Experiment-1/Source Code/SPCC-1.c) | C implementation for Symbol Table | [View](Experiment-1/Source Code/SPCC-1.c) |
+| 💻 | [Source Code](Experiment-1/Source Code/DFA_Implementation.c) | C implementation for DFA acceptance | [View](Experiment-1/Source Code/DFA_Implementation.c) |
 
 ---
 
