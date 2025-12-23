@@ -403,11 +403,11 @@ Previous year university question papers:
      ========================================================================================= -->
 ## Submission Completion Report
 
-Final coursework documentation:
+Course completion documentation:
 
-| Document | Description | Link |
-|:---|:---|:-:|
-| **Submission Report** | Final term work submission report for Semester VI | [📋 View](Submission%20Report/Amey_B-50_SPCC_Term_Work_Submission_Report.pdf) |
+| # | Document | Description |
+|:-:|:---|:---|
+| 1 | [Submission Report](Submission%20Report/Amey_B-50_SPCC_Term_Work_Submission_Report.pdf) | Final coursework submission report |
 
 ---
 
