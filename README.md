@@ -161,7 +161,7 @@ Subject-specific quizzes conducted during the course:
 
 The laboratory component (CSL602) focuses on hands-on implementation of system software components including assemblers, lexical analyzers, and parsers using C and tools like LEX/YACC.
 
-![Total Experiments](https://img.shields.io/badge/Total_Experiments-9-yellowgreen?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
+![Total Experiments](https://img.shields.io/badge/Total_Experiments-10-yellowgreen?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 > [!TIP]
 > **Lab Concept**: System software development requires a strong grasp of data structures like Symbol Tables and Literal Tables. When working with LEX and YACC, always ensure your regular expressions and grammars are well-tested before integration.
@@ -179,6 +179,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 | 7 | **Assembler Pass-I** | Design and implement first pass of a two pass assembler for IBM 360/370 Processor | 8/10 | [View](System%20Software%20Lab/Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) |
 | 8 | **Assembler Pass-II** | Design and implement second pass of a two pass assembler for IBM 360/370 Processor | 7/10 | [View](System%20Software%20Lab/Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) |
 | 9 | **Two Pass Macro Processor** | Design and Implement two pass Macro Processor | 8/10 | [View](System%20Software%20Lab/Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) |
+| 10 | **Calculator using YACC** | Implementation of calculator using YACC parser generator | 8/10 | [View](System%20Software%20Lab/Experiment-10/Amey_B-50_SPCC_Lab_Experiment-10.pdf) |
 
 ### Program Details
 
