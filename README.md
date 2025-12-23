@@ -168,18 +168,18 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 **[📂 View Detailed Laboratory Documentation](System%20Software%20Lab/)**
 
-| # | Experiment | Description | Marks | Report |
-|:-:|:---|:---|:---:|:-:|
-| 1 | **Lexical Analyzer using Finite Automata** | Develop a program to implement lexical analyzer using Finite Automata | 9/10 | [View](System%20Software%20Lab/Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) |
-| 2 | **Lexical Analyzer using LEX** | Implement Lexical Analyzer for given language using Lex tool | 7/10 | [View](System%20Software%20Lab/Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) |
-| 3 | **Left Recursion and FIRST/FOLLOW** | Implement program to remove left recursion from grammar and find first and follow | 8/10 | [View](System%20Software%20Lab/Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) |
-| 4 | **Parsing Techniques** | Implement any parsing technique | 8/10 | [View](System%20Software%20Lab/Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) |
-| 5 | **Code Optimization** | Implement any code optimization techniques | 8/10 | [View](System%20Software%20Lab/Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) |
-| 6 | **Target Code Generation** | Generate target code | 8/10 | [View](System%20Software%20Lab/Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) |
-| 7 | **Assembler Pass-I** | Design and implement first pass of a two pass assembler for IBM 360/370 Processor | 8/10 | [View](System%20Software%20Lab/Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) |
-| 8 | **Assembler Pass-II** | Design and implement second pass of a two pass assembler for IBM 360/370 Processor | 7/10 | [View](System%20Software%20Lab/Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) |
-| 9 | **Two Pass Macro Processor** | Design and Implement two pass Macro Processor | 8/10 | [View](System%20Software%20Lab/Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) |
-| 10 | **LEX-YACC for 3-Address ICG** | Write a LEX-YACC specification program for 3-address intermediate code generation | 10/10 | [View](System%20Software%20Lab/Experiment-10/Amey_B-50_SPCC_Lab_Experiment-10.pdf) |
+| # | Experiment | Marks | Report |
+|:-:|:---|:---:|:-:|
+| 1 | Develop a program to implement lexical analyzer using Finite Automata | 9/10 | [View](System%20Software%20Lab/Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) |
+| 2 | Implement Lexical Analyzer for given language using Lex tool | 7/10 | [View](System%20Software%20Lab/Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) |
+| 3 | Implement program to remove left recursion from grammar and find first and follow | 8/10 | [View](System%20Software%20Lab/Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) |
+| 4 | Implement any parsing technique | 8/10 | [View](System%20Software%20Lab/Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) |
+| 5 | Implement any code optimization techniques | 8/10 | [View](System%20Software%20Lab/Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) |
+| 6 | Generate target code | 8/10 | [View](System%20Software%20Lab/Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) |
+| 7 | Design and implement first pass of a two pass assembler for IBM 360/370 Processor | 8/10 | [View](System%20Software%20Lab/Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) |
+| 8 | Design and implement second pass of a two pass assembler for IBM 360/370 Processor | 7/10 | [View](System%20Software%20Lab/Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) |
+| 9 | Design and Implement two pass Macro Processor | 8/10 | [View](System%20Software%20Lab/Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) |
+| 10 | Write a LEX-YACC specification program for 3-address intermediate code generation | 10/10 | [View](System%20Software%20Lab/Experiment-10/Amey_B-50_SPCC_Lab_Experiment-10.pdf) |
 
 ### Program Details
 
