@@ -1,14 +1,26 @@
 /*
+ * =========================================================================================
  * Experiment 3: Calculation of FIRST and FOLLOW Sets
  * Course: System Programming and Compiler Construction (SPCC)
  * 
  * Author: Amey Thakur
  * GitHub: https://github.com/Amey-Thakur
  * Repository: https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB
+ * =========================================================================================
  * 
- * Description:
- * This program calculates the FIRST and FOLLOW sets for a given context-free grammar.
- * It reads the grammar from 'grammar.txt' and outputs the calculated sets.
+ * TECHNICAL LOGIC EXPLANATION:
+ * This program calculates the FIRST and FOLLOW sets for a given Context-Free Grammar (CFG). 
+ * These sets are used during the construction of parsing tables in compilers.
+ * 
+ * Core Logic:
+ * 1. FIRST Set: For a non-terminal (NT), it is the set of terminal symbols that appear 
+ *    at the beginning of any string derived from that NT.
+ * 2. FOLLOW Set: The set of terminal symbols that can appear immediately to the right 
+ *    of a non-terminal in some sentential form.
+ * 3. Recursive Discovery: The program uses recursive functions to navigate the 
+ *    grammar rules, moving deeper into the rules until terminal symbols are found.
+ * 4. Set Integration: Symbols found are aggregated into unique sets for each 
+ *    individual non-terminal defined in the grammar.
  */
 
 #include <stdio.h>
@@ -18,6 +30,11 @@
 #define MAX_PROD 20
 #define MAX_LEN 10
 
+/**
+ * PRODUCTION STRUCTURE
+ * Stores the Left-Hand Side (Non-Terminal) and multiple Right-Hand Side options.
+ * Also keeps track of the calculated FIRST and FOLLOW sets for easy access.
+ */
 typedef struct {
     char lhs[MAX_LEN];
     char rhs[MAX_LEN][MAX_LEN];
@@ -30,9 +47,8 @@ Production grammar[MAX_PROD];
 int num_productions = 0;
 
 /**
- * Adds a terminal to a set if it's not already present.
- * @param set The set to add to.
- * @param c The character to add.
+ * SET AGGREGATION LOGIC
+ * Ensures that characters added to the sets are unique (no duplicates).
  */
 void add_to_set(char *set, char c) {
     if (strchr(set, c) == NULL) {
@@ -43,18 +59,20 @@ void add_to_set(char *set, char c) {
 }
 
 /**
- * Finds FIRST of a non-terminal recursively.
- * @param nt The non-terminal character.
- * @param prod_idx Index of the production in grammar.
+ * RECURSIVE FIRST CALCULATION
+ * Evaluates the grammar rules to find the leading terminals for a symbol.
  */
 void find_first(char nt, int prod_idx) {
     for (int k = 0; k < num_productions; k++) {
         if (grammar[k].lhs[0] == nt) {
             for (int t = 0; t < grammar[k].num_rhs; t++) {
                 char first_char = grammar[k].rhs[t][0];
+                /* If the first character is a terminal (lowercase/symbol), add it. */
                 if (!isupper(first_char)) {
                     add_to_set(grammar[prod_idx].first, first_char);
-                } else {
+                } 
+                /* If the first character is a non-terminal, recursively find its FIRST. */
+                else {
                     find_first(first_char, prod_idx);
                 }
             }
@@ -63,9 +81,8 @@ void find_first(char nt, int prod_idx) {
 }
 
 /**
- * Finds FOLLOW of a non-terminal recursively.
- * @param nt The non-terminal character.
- * @param prod_idx Index of the production in grammar.
+ * RECURSIVE FOLLOW CALCULATION
+ * Evaluates what symbols can follow a given Non-Terminal within the grammar production rules.
  */
 void find_follow(char nt, int prod_idx) {
     for (int k = 0; k < num_productions; k++) {
@@ -75,12 +92,14 @@ void find_follow(char nt, int prod_idx) {
                 int pos = occurrence - grammar[k].rhs[t];
                 char next_char = grammar[k].rhs[t][pos + 1];
 
+                /* Rule: If there is a symbol after the current NT. */
                 if (next_char != '\0') {
                     if (isupper(next_char)) {
+                        // Inherit from the FIRST set of the next symbol.
                         for (int o = 0; o < num_productions; o++) {
                             if (grammar[o].lhs[0] == next_char) {
                                 for (int f = 0; f < strlen(grammar[o].first); f++) {
-                                    if (grammar[o].first[f] != '0') { // 0 for epsilon
+                                    if (grammar[o].first[f] != '0') { // Skip epsilon
                                         add_to_set(grammar[prod_idx].follow, grammar[o].first[f]);
                                     }
                                 }
@@ -89,20 +108,10 @@ void find_follow(char nt, int prod_idx) {
                     } else {
                         add_to_set(grammar[prod_idx].follow, next_char);
                     }
-                } else if (grammar[k].lhs[0] != nt) {
-                    // Rule: If A -> alpha B, then FOLLOW(B) includes FOLLOW(A)
-                    int parent_idx = -1;
-                    for (int o = 0; o < num_productions; o++) {
-                        if (grammar[o].lhs[0] == grammar[k].lhs[0]) {
-                            parent_idx = o;
-                            break;
-                        }
-                    }
-                    if (parent_idx != -1) {
-                        // This part typically needs a bit more care for circularity
-                        // For this lab, we'll follow the original logic
-                        find_follow(grammar[k].lhs[0], prod_idx);
-                    }
+                } 
+                /* Rule: If the NT is at the end, inherit from the FOLLOW of the parent LHS. */
+                else if (grammar[k].lhs[0] != nt) {
+                    find_follow(grammar[k].lhs[0], prod_idx);
                 }
             }
         }
@@ -112,17 +121,18 @@ void find_follow(char nt, int prod_idx) {
 int main() {
     FILE *file = fopen("grammar.txt", "r");
     if (!file) {
-        printf("Error: Could not open grammar.txt\n");
+        printf("Error: GRAMMAR.TXT not found. Please ensure input file is available.\n");
         return 1;
     }
 
+    // Initializing structure fields to avoid junk data issues.
     for (int i = 0; i < MAX_PROD; i++) {
         grammar[i].num_rhs = 0;
         grammar[i].first[0] = '\0';
         grammar[i].follow[0] = '\0';
     }
 
-    /* Read Grammar from File */
+    /* GRAMMAR INGESTION */
     while (!feof(file)) {
         char buffer[MAX_LEN];
         if (fscanf(file, "%s", buffer) != 1) break;
@@ -142,7 +152,7 @@ int main() {
     printf("\n==============================================\n");
     printf("         FIRST AND FOLLOW CALCULATOR         \n");
     printf("==============================================\n");
-    printf("Grammar detected:\n");
+    printf("Grammar Structure detected:\n");
     for (int i = 0; i < num_productions; i++) {
         printf("%s -> ", grammar[i].lhs);
         for (int j = 0; j < grammar[i].num_rhs; j++) {
@@ -151,7 +161,7 @@ int main() {
         printf("\n");
     }
 
-    /* Calculate FIRST */
+    /* EXECUTION: Calculate FIRST set for each non-terminal */
     for (int i = 0; i < num_productions; i++) {
         for (int j = 0; j < grammar[i].num_rhs; j++) {
             char first_sym = grammar[i].rhs[j][0];
@@ -163,15 +173,15 @@ int main() {
         }
     }
 
-    /* Calculate FOLLOW */
-    grammar[0].follow[0] = '$';
+    /* EXECUTION: Calculate FOLLOW set for each non-terminal */
+    grammar[0].follow[0] = '$'; // The start symbol always contains $ (end of string)
     grammar[0].follow[1] = '\0';
     for (int i = 0; i < num_productions; i++) {
         find_follow(grammar[i].lhs[0], i);
     }
 
-    /* Output Results */
-    printf("\n%-15s %-20s %-20s\n", "Non-Terminal", "FIRST", "FOLLOW");
+    /* REPORTING RESULTS */
+    printf("\n%-15s %-20s %-20s\n", "Symbol", "FIRST Set", "FOLLOW Set");
     printf("----------------------------------------------\n");
     for (int i = 0; i < num_productions; i++) {
         printf("%-15s { %-17s } { %-17s }\n", grammar[i].lhs, grammar[i].first, grammar[i].follow);
