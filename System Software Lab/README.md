@@ -15,7 +15,7 @@
 
   ---
 
-  **[🛠️ Experiment 1](#experiment-1-symbol-table-implementation)** &nbsp;·&nbsp; **[🔍 Experiment 2](#experiment-2-lexical-analysis)** &nbsp;·&nbsp; **[🏗️ Experiment 3](#experiment-3-parsing-techniques)** &nbsp;·&nbsp; **[🚦 Experiment 4](#experiment-4-intermediate-code-generation)** &nbsp;·&nbsp; **[⚙️ Experiment 5](#experiment-5-code-optimization)** &nbsp;·&nbsp; **[📝 Experiment 6](#experiment-6-target-code-generation)** &nbsp;·&nbsp; **[🧩 Experiment 7](#experiment-7-assembler-pass-i)** &nbsp;·&nbsp; **[🔄 Experiment 8](#experiment-8-assembler-pass-ii)** &nbsp;·&nbsp; **[🔗 Experiment 9](#experiment-9-macro-processor)** &nbsp;·&nbsp; **[🛠️ Experiment 10](#experiment-10-yacc--lex-tools)** &nbsp;·&nbsp; **[🚀 How to Use](#-how-to-use)** &nbsp;·&nbsp; **[📖 Learning Path](#-learning-path)**
+  **[🛠️ Experiment 1](#experiment-1-symbol-table-implementation)** &nbsp;·&nbsp; **[🔍 Experiment 2](#experiment-2-lexical-analysis)** &nbsp;·&nbsp; **[🏗️ Experiment 3](#experiment-3-parsing-techniques)** &nbsp;·&nbsp; **[🚦 Experiment 4](#experiment-4-intermediate-code-generation)** &nbsp;·&nbsp; **[⚙️ Experiment 5](#experiment-5-code-optimization)** &nbsp;·&nbsp; **[📝 Experiment 6](#experiment-6-target-code-generation)** &nbsp;·&nbsp; **[🧩 Experiment 7](#experiment-7-assembler-pass-i)** &nbsp;·&nbsp; **[🔄 Experiment 8](#experiment-8-assembler-pass-ii)** &nbsp;·&nbsp; **[🔗 Experiment 9](#experiment-9-macro-processor)** &nbsp;·&nbsp; **[🛠️ Experiment 10](#experiment-10-yacc--lex-tools)** &nbsp;·&nbsp; **[🚀 How to Use](#how-to-use)** &nbsp;·&nbsp; **[📖 Learning Path](#learning-path)**
 
 </div>
 
@@ -39,7 +39,7 @@ Implementation of Symbol Table using C to manage identifiers and their propertie
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | [DFA_Implementation.c](Experiment-1/Source%20Code/DFA_Implementation.c) | C implementation for DFA acceptance | [View](Experiment-1/Source%20Code/DFA_Implementation.c) |
-| � | [Lab Report](Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) | Detailed experiment report | [View](Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) |
+| 📄 | [Lab Report](Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) | Detailed experiment report | [View](Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) |
 
 ---
 
@@ -55,7 +55,7 @@ Scanner development using LEX tool to identify tokens in a source program.
 | 1 | [Lex_Lexical_Analyzer.l](Experiment-2/Source%20Code/Lex_Lexical_Analyzer.l) | LEX implementation for scanner | [View](Experiment-2/Source%20Code/Lex_Lexical_Analyzer.l) |
 | 2 | [Manual_Lexical_Analyzer.c](Experiment-2/Source%20Code/Manual_Lexical_Analyzer.c) | Manual C implementation for scanner | [View](Experiment-2/Source%20Code/Manual_Lexical_Analyzer.c) |
 | 3 | [sample_input.c](Experiment-2/Source%20Code/sample_input.c) | Test C file for analysis | [View](Experiment-2/Source%20Code/sample_input.c) |
-| � | [Lab Report](Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) | Detailed experiment report | [View](Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) |
+| 📄 | [Lab Report](Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) | Detailed experiment report | [View](Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) |
 
 ---
 
@@ -70,7 +70,7 @@ Implementation of FIRST and FOLLOW sets calculation for syntax analysis of gramm
 |:---|:---|:---|:-:|
 | 1 | [First_Follow_Implementation.c](Experiment-3/Source%20Code/First_Follow_Implementation.c) | C implementation for FIRST & FOLLOW | [View](Experiment-3/Source%20Code/First_Follow_Implementation.c) |
 | 2 | [grammar.txt](Experiment-3/Source%20Code/grammar.txt) | Input grammar for calculation | [View](Experiment-3/Source%20Code/grammar.txt) |
-| � | [Lab Report](Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) | Detailed experiment report | [View](Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) |
+| 📄 | [Lab Report](Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) | Detailed experiment report | [View](Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) |
 
 ---
 
@@ -84,7 +84,7 @@ Implementation of Recursive Descent Parser for syntax analysis of grammars.
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | [RD_Parser_Implementation.c](Experiment-4/Source%20Code/RD_Parser_Implementation.c) | C implementation for RD Parser | [View](Experiment-4/Source%20Code/RD_Parser_Implementation.c) |
-| � | [Lab Report](Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) | Detailed experiment report | [View](Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) |
+| 📄 | [Lab Report](Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) | Detailed experiment report | [View](Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) |
 
 ---
 
@@ -98,7 +98,7 @@ Implementation of constant folding and common sub-expression elimination techniq
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | [Code_Optimization.c](Experiment-5/Source%20Code/Code_Optimization.c) | C implementation for optimizations | [View](Experiment-5/Source%20Code/Code_Optimization.c) |
-| � | [Lab Report](Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) | Detailed experiment report | [View](Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) |
+| 📄 | [Lab Report](Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) | Detailed experiment report | [View](Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) |
 
 ---
 
@@ -112,7 +112,7 @@ Implementation of Target Code Generation logic including MOV and arithmetic inst
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | [Target_Code_Generator.c](Experiment-6/Source%20Code/Target_Code_Generator.c) | C implementation for Target Code Generation | [View](Experiment-6/Source%20Code/Target_Code_Generator.c) |
-| � | [Lab Report](Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) | Detailed experiment report | [View](Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) |
+| 📄 | [Lab Report](Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) | Detailed experiment report | [View](Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) |
 
 ---
 
@@ -143,7 +143,7 @@ Design and implementation of Pass-II Assembler to generate Object Code (H, T, E 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | [Assembler_Pass2.c](Experiment-8/Source%20Code/Assembler_Pass2.c) | C implementation for Assembler PASS-II | [View](Experiment-8/Source%20Code/Assembler_Pass2.c) |
-| � | [Lab Report](Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) | Detailed experiment report | [View](Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) |
+| 📄 | [Lab Report](Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) | Detailed experiment report | [View](Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) |
 
 ---
 
@@ -157,7 +157,7 @@ Simulation of a one-pass Macro Processor handling definition and expansion.
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | [Macro_Processor.c](Experiment-9/Source%20Code/Macro_Processor.c) | C implementation for Macro Processor | [View](Experiment-9/Source%20Code/Macro_Processor.c) |
-| � | [Lab Report](Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) | Detailed experiment report | [View](Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) |
+| 📄 | [Lab Report](Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) | Detailed experiment report | [View](Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) |
 
 ---
 
@@ -237,7 +237,7 @@ gcc lex.yy.c -o lexer -lfl
   <!-- Footer Navigation -->
   **[⬆ Back to Top](#system-software-lab)**
 
-  **[🛠️ Experiment 1](#experiment-1-symbol-table-implementation)** &nbsp;·&nbsp; **[🔍 Experiment 2](#experiment-2-lexical-analysis)** &nbsp;·&nbsp; **[🏗️ Experiment 3](#experiment-3-parsing-techniques)** &nbsp;·&nbsp; **[🚦 Experiment 4](#experiment-4-intermediate-code-generation)** &nbsp;·&nbsp; **[⚙️ Experiment 5](#experiment-5-code-optimization)** &nbsp;·&nbsp; **[📝 Experiment 6](#experiment-6-target-code-generation)** &nbsp;·&nbsp; **[🧩 Experiment 7](#experiment-7-assembler-pass-i)** &nbsp;·&nbsp; **[🔄 Experiment 8](#experiment-8-assembler-pass-ii)** &nbsp;·&nbsp; **[🔗 Experiment 9](#experiment-9-macro-processor)** &nbsp;·&nbsp; **[🛠️ Experiment 10](#experiment-10-yacc--lex-tools)** &nbsp;·&nbsp; **[🚀 How to Use](#-how-to-use)** &nbsp;·&nbsp; **[📖 Learning Path](#-learning-path)**
+  **[🛠️ Experiment 1](#experiment-1-symbol-table-implementation)** &nbsp;·&nbsp; **[🔍 Experiment 2](#experiment-2-lexical-analysis)** &nbsp;·&nbsp; **[🏗️ Experiment 3](#experiment-3-parsing-techniques)** &nbsp;·&nbsp; **[🚦 Experiment 4](#experiment-4-intermediate-code-generation)** &nbsp;·&nbsp; **[⚙️ Experiment 5](#experiment-5-code-optimization)** &nbsp;·&nbsp; **[📝 Experiment 6](#experiment-6-target-code-generation)** &nbsp;·&nbsp; **[🧩 Experiment 7](#experiment-7-assembler-pass-i)** &nbsp;·&nbsp; **[🔄 Experiment 8](#experiment-8-assembler-pass-ii)** &nbsp;·&nbsp; **[🔗 Experiment 9](#experiment-9-macro-processor)** &nbsp;·&nbsp; **[🛠️ Experiment 10](#experiment-10-yacc--lex-tools)** &nbsp;·&nbsp; **[🚀 How to Use](#how-to-use)** &nbsp;·&nbsp; **[📖 Learning Path](#learning-path)**
 
   <br>
 
