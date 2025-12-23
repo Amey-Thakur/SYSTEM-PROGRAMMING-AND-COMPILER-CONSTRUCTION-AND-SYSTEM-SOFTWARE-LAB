@@ -183,6 +183,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
   [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](System%20Software%20Lab/)
   [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](System%20Software%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-C%20%7C%20LEX%20%7C%20YACC-blueviolet.svg)](System%20Software%20Lab/)
 
 </div>
 
