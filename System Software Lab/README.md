@@ -50,7 +50,9 @@ Scanner development using LEX tool to identify tokens in a source program.
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
 | 📄 | [Lab Report](Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) | Detailed experiment report | [View](Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) |
-| 💻 | [Source Code](Experiment-2/Source Code/SPCC-2.l) | LEX implementation for scanner | [View](Experiment-2/Source Code/SPCC-2.l) |
+| 💻 | [LEX Source](Experiment-2/Source Code/Lex_Lexical_Analyzer.l) | LEX implementation for scanner | [View](Experiment-2/Source Code/Lex_Lexical_Analyzer.l) |
+| 💻 | [Manual Source](Experiment-2/Source Code/Manual_Lexical_Analyzer.c) | Manual C implementation for scanner | [View](Experiment-2/Source Code/Manual_Lexical_Analyzer.c) |
+| 📄 | [Sample Input](Experiment-2/Source Code/sample_input.c) | Test C file for analysis | [View](Experiment-2/Source Code/sample_input.c) |
 
 ---
 

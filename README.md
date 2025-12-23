@@ -146,7 +146,7 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 | Resource | Description | Code |
 |:---|:---|:-:|
-| [📄 Report](System%20Software%20Lab/Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) | Scanner development using LEX tool | [View](System%20Software%20Lab/Experiment-2/Source Code/SPCC-2.l) |
+| [📄 Report](System%20Software%20Lab/Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) | Scanner development using LEX tool | [View](System%20Software%20Lab/Experiment-2/Source Code/Lex_Lexical_Analyzer.l) |
 
 </details>
 
