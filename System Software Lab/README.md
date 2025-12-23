@@ -102,9 +102,9 @@ Implementation of constant folding and common sub-expression elimination techniq
 <!-- =========================================================================================
                                      EXPERIMENT 6
      ========================================================================================= -->
-## 📝 Experiment 6: Assembler PASS-I
+## 📝 Experiment 6: Target Code Generation
 
-Implementation of One-pass Assembler logic including LC and Symbol Table.
+Implementation of Target Code Generation logic including MOV and arithmetic instructions.
 
 | Format | Document | Description | Link |
 |:---:|:---|:---|:-:|
