@@ -91,8 +91,8 @@ Implementation of Symbol Table using C to manage identifiers and their propertie
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
-| 1 | [DFA_Implementation.c](Experiment-1/Source%20Code/DFA_Implementation.c) | C implementation for DFA acceptance | [View](Experiment-1/Source%20Code/DFA_Implementation.c) |
-| 📄 | [Lab Report](Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) | Detailed experiment report | [View](Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) |
+| 1 | DFA_Implementation.c | C implementation for DFA acceptance | [View](Experiment-1/Source%20Code/DFA_Implementation.c) |
+| — | Lab Report | Detailed experiment report | [View](Experiment-1/Amey_B-50_SPCC_Lab_Experiment-1.pdf) |
 
 ---
 
@@ -105,10 +105,10 @@ Scanner development using LEX tool to identify tokens in a source program.
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
-| 1 | [Lex_Lexical_Analyzer.l](Experiment-2/Source%20Code/Lex_Lexical_Analyzer.l) | LEX implementation for scanner | [View](Experiment-2/Source%20Code/Lex_Lexical_Analyzer.l) |
-| 2 | [Manual_Lexical_Analyzer.c](Experiment-2/Source%20Code/Manual_Lexical_Analyzer.c) | Manual C implementation for scanner | [View](Experiment-2/Source%20Code/Manual_Lexical_Analyzer.c) |
-| 3 | [sample_input.c](Experiment-2/Source%20Code/sample_input.c) | Test C file for analysis | [View](Experiment-2/Source%20Code/sample_input.c) |
-| 📄 | [Lab Report](Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) | Detailed experiment report | [View](Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) |
+| 1 | Lex_Lexical_Analyzer.l | LEX implementation for scanner | [View](Experiment-2/Source%20Code/Lex_Lexical_Analyzer.l) |
+| 2 | Manual_Lexical_Analyzer.c | Manual C implementation for scanner | [View](Experiment-2/Source%20Code/Manual_Lexical_Analyzer.c) |
+| 3 | sample_input.c | Test C file for analysis | [View](Experiment-2/Source%20Code/sample_input.c) |
+| — | Lab Report | Detailed experiment report | [View](Experiment-2/Amey_B-50_SPCC_Lab_Experiment-2.pdf) |
 
 ---
 
@@ -121,9 +121,9 @@ Implementation of FIRST and FOLLOW sets calculation for syntax analysis of gramm
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
-| 1 | [First_Follow_Implementation.c](Experiment-3/Source%20Code/First_Follow_Implementation.c) | C implementation for FIRST & FOLLOW | [View](Experiment-3/Source%20Code/First_Follow_Implementation.c) |
-| 2 | [grammar.txt](Experiment-3/Source%20Code/grammar.txt) | Input grammar for calculation | [View](Experiment-3/Source%20Code/grammar.txt) |
-| 📄 | [Lab Report](Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) | Detailed experiment report | [View](Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) |
+| 1 | First_Follow_Implementation.c | C implementation for FIRST & FOLLOW | [View](Experiment-3/Source%20Code/First_Follow_Implementation.c) |
+| 2 | grammar.txt | Input grammar for calculation | [View](Experiment-3/Source%20Code/grammar.txt) |
+| — | Lab Report | Detailed experiment report | [View](Experiment-3/Amey_B-50_SPCC_Lab_Experiment-3.pdf) |
 
 ---
 
@@ -136,8 +136,8 @@ Implementation of Recursive Descent Parser for syntax analysis of grammars.
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
-| 1 | [RD_Parser_Implementation.c](Experiment-4/Source%20Code/RD_Parser_Implementation.c) | C implementation for RD Parser | [View](Experiment-4/Source%20Code/RD_Parser_Implementation.c) |
-| 📄 | [Lab Report](Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) | Detailed experiment report | [View](Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) |
+| 1 | RD_Parser_Implementation.c | C implementation for RD Parser | [View](Experiment-4/Source%20Code/RD_Parser_Implementation.c) |
+| — | Lab Report | Detailed experiment report | [View](Experiment-4/Amey_B-50_SPCC_Lab_Experiment-4.pdf) |
 
 ---
 
@@ -150,8 +150,8 @@ Implementation of constant folding and common sub-expression elimination techniq
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
-| 1 | [Code_Optimization.c](Experiment-5/Source%20Code/Code_Optimization.c) | C implementation for optimizations | [View](Experiment-5/Source%20Code/Code_Optimization.c) |
-| 📄 | [Lab Report](Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) | Detailed experiment report | [View](Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) |
+| 1 | Code_Optimization.c | C implementation for optimizations | [View](Experiment-5/Source%20Code/Code_Optimization.c) |
+| — | Lab Report | Detailed experiment report | [View](Experiment-5/Amey_B-50_SPCC_Lab_Experiment-5.pdf) |
 
 ---
 
@@ -164,8 +164,8 @@ Implementation of Target Code Generation logic including MOV and arithmetic inst
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
-| 1 | [Target_Code_Generator.c](Experiment-6/Source%20Code/Target_Code_Generator.c) | C implementation for Target Code Generation | [View](Experiment-6/Source%20Code/Target_Code_Generator.c) |
-| 📄 | [Lab Report](Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) | Detailed experiment report | [View](Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) |
+| 1 | Target_Code_Generator.c | C implementation for Target Code Generation | [View](Experiment-6/Source%20Code/Target_Code_Generator.c) |
+| — | Lab Report | Detailed experiment report | [View](Experiment-6/Amey_B-50_SPCC_Lab_Experiment-6.pdf) |
 
 ---
 
@@ -178,11 +178,11 @@ Design and implementation of Pass-I Assembler to generate Symbol Table and calcu
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
-| 1 | [Assembler_Pass1.c](Experiment-7/Source%20Code/Assembler_Pass1.c) | C implementation for Assembler PASS-I | [View](Experiment-7/Source%20Code/Assembler_Pass1.c) |
-| 2 | [INPUT.txt](Experiment-7/Source%20Code/INPUT.txt) | Input assembly source code | [View](Experiment-7/Source%20Code/INPUT.txt) |
-| 3 | [OPTAB.txt](Experiment-7/Source%20Code/OPTAB.txt) | Machine Operation Table | [View](Experiment-7/Source%20Code/OPTAB.txt) |
-| 4 | [SYMTAB.txt](Experiment-7/Source%20Code/SYMTAB.txt) | Generated Symbol Table | [View](Experiment-7/Source%20Code/SYMTAB.txt) |
-| 📄 | [Lab Report](Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) | Detailed experiment report | [View](Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) |
+| 1 | Assembler_Pass1.c | C implementation for Assembler PASS-I | [View](Experiment-7/Source%20Code/Assembler_Pass1.c) |
+| 2 | INPUT.txt | Input assembly source code | [View](Experiment-7/Source%20Code/INPUT.txt) |
+| 3 | OPTAB.txt | Machine Operation Table | [View](Experiment-7/Source%20Code/OPTAB.txt) |
+| 4 | SYMTAB.txt | Generated Symbol Table | [View](Experiment-7/Source%20Code/SYMTAB.txt) |
+| — | Lab Report | Detailed experiment report | [View](Experiment-7/Amey_B-50_SPCC_Lab_Experiment-7.pdf) |
 
 ---
 
@@ -195,8 +195,8 @@ Design and implementation of Pass-II Assembler to generate Object Code (H, T, E 
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
-| 1 | [Assembler_Pass2.c](Experiment-8/Source%20Code/Assembler_Pass2.c) | C implementation for Assembler PASS-II | [View](Experiment-8/Source%20Code/Assembler_Pass2.c) |
-| 📄 | [Lab Report](Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) | Detailed experiment report | [View](Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) |
+| 1 | Assembler_Pass2.c | C implementation for Assembler PASS-II | [View](Experiment-8/Source%20Code/Assembler_Pass2.c) |
+| — | Lab Report | Detailed experiment report | [View](Experiment-8/Amey_B-50_SPCC_Lab_Experiment-8.pdf) |
 
 ---
 
@@ -209,8 +209,8 @@ Simulation of a one-pass Macro Processor handling definition and expansion.
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
-| 1 | [Macro_Processor.c](Experiment-9/Source%20Code/Macro_Processor.c) | C implementation for Macro Processor | [View](Experiment-9/Source%20Code/Macro_Processor.c) |
-| 📄 | [Lab Report](Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) | Detailed experiment report | [View](Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) |
+| 1 | Macro_Processor.c | C implementation for Macro Processor | [View](Experiment-9/Source%20Code/Macro_Processor.c) |
+| — | Lab Report | Detailed experiment report | [View](Experiment-9/Amey_B-50_SPCC_Lab_Experiment-9.pdf) |
 
 ---
 
@@ -223,9 +223,9 @@ Parser development using YACC tool for various grammatical structures.
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
-| 1 | [Integer_Recognizer.l](Experiment-10/Source%20Code/Integer_Recognizer.l) | LEX script to recognize integers | [View](Experiment-10/Source%20Code/Integer_Recognizer.l) |
-| 2 | [Arithmetic_Counter.l](Experiment-10/Source%20Code/Arithmetic_Counter.l) | LEX script to count numbers | [View](Experiment-10/Source%20Code/Arithmetic_Counter.l) |
-| 📄 | [Lab Report](Experiment-10/Amey_B-50_SPCC_Lab_Experiment-10.docx) | Detailed experiment report | [View](Experiment-10/Amey_B-50_SPCC_Lab_Experiment-10.docx) |
+| 1 | Integer_Recognizer.l | LEX script to recognize integers | [View](Experiment-10/Source%20Code/Integer_Recognizer.l) |
+| 2 | Arithmetic_Counter.l | LEX script to count numbers | [View](Experiment-10/Source%20Code/Arithmetic_Counter.l) |
+| — | Lab Report | Detailed experiment report | [View](Experiment-10/Amey_B-50_SPCC_Lab_Experiment-10.docx) |
 
 ---
 
