@@ -159,7 +159,7 @@ Educational presentations and collaborative work:
      ========================================================================================= -->
 ### Quizzes
 
-Subject-specific quizzes conducted during the course:
+SPCC-specific quizzes conducted during the course:
 
 | # | Quiz | Topics | Date | Marks |
 |:-:|:---|:---|:---:|:---:|
