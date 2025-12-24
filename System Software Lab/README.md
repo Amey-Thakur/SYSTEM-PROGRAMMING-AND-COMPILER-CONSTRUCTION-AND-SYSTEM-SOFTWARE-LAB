@@ -89,6 +89,8 @@ gcc lex.yy.c -o lexer -lfl
 
 Implementation of Symbol Table using C to manage identifiers and their properties.
 
+**Date:** February 05, 2021
+
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | DFA_Implementation.c | C implementation for DFA acceptance | [View](Experiment-1/Source%20Code/DFA_Implementation.c) |
@@ -102,6 +104,8 @@ Implementation of Symbol Table using C to manage identifiers and their propertie
 ## Experiment 2: Lexical Analysis
 
 Scanner development using LEX tool to identify tokens in a source program.
+
+**Date:** February 26, 2021
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
@@ -119,6 +123,8 @@ Scanner development using LEX tool to identify tokens in a source program.
 
 Implementation of FIRST and FOLLOW sets calculation for syntax analysis of grammars.
 
+**Date:** March 05, 2021
+
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | First_Follow_Implementation.c | C implementation for FIRST & FOLLOW | [View](Experiment-3/Source%20Code/First_Follow_Implementation.c) |
@@ -134,6 +140,8 @@ Implementation of FIRST and FOLLOW sets calculation for syntax analysis of gramm
 
 Implementation of Recursive Descent Parser for syntax analysis of grammars.
 
+**Date:** March 26, 2021
+
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | RD_Parser_Implementation.c | C implementation for RD Parser | [View](Experiment-4/Source%20Code/RD_Parser_Implementation.c) |
@@ -147,6 +155,8 @@ Implementation of Recursive Descent Parser for syntax analysis of grammars.
 ## Experiment 5: Code Optimization
 
 Implementation of constant folding and common sub-expression elimination techniques.
+
+**Date:** March 30, 2021
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
@@ -162,6 +172,8 @@ Implementation of constant folding and common sub-expression elimination techniq
 
 Implementation of Target Code Generation logic including MOV and arithmetic instructions.
 
+**Date:** April 09, 2021
+
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | Target_Code_Generator.c | C implementation for Target Code Generation | [View](Experiment-6/Source%20Code/Target_Code_Generator.c) |
@@ -175,6 +187,8 @@ Implementation of Target Code Generation logic including MOV and arithmetic inst
 ## Experiment 7: Assembler PASS-I
 
 Design and implementation of Pass-I Assembler to generate Symbol Table and calculate program length.
+
+**Date:** April 30, 2021
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
@@ -193,6 +207,8 @@ Design and implementation of Pass-I Assembler to generate Symbol Table and calcu
 
 Design and implementation of Pass-II Assembler to generate Object Code (H, T, E records).
 
+**Date:** April 30, 2021
+
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | Assembler_Pass2.c | C implementation for Assembler PASS-II | [View](Experiment-8/Source%20Code/Assembler_Pass2.c) |
@@ -207,6 +223,8 @@ Design and implementation of Pass-II Assembler to generate Object Code (H, T, E 
 
 Simulation of a one-pass Macro Processor handling definition and expansion.
 
+**Date:** May 07, 2021
+
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | Macro_Processor.c | C implementation for Macro Processor | [View](Experiment-9/Source%20Code/Macro_Processor.c) |
@@ -220,6 +238,8 @@ Simulation of a one-pass Macro Processor handling definition and expansion.
 ## Experiment 10: YACC & LEX Tools
 
 Parser development using YACC tool for various grammatical structures.
+
+**Date:** May 07, 2021
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
