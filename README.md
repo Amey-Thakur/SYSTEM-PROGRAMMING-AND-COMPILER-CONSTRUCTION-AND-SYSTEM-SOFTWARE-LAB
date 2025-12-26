@@ -33,7 +33,7 @@ System Programming and Compiler Construction (CSC602) and System Software Lab (C
 
 ### Course Topics
 
-The curriculum encompasses several key domains in System Software:
+The curriculum encompasses several key domains in System Programming and Compiler Construction:
 
 - **Introduction to System Software**: Language processors, fundamental of language processing, data structures for language processing.
 - **Assemblers**: Design of one-pass and two-pass assemblers, symbol table management.
