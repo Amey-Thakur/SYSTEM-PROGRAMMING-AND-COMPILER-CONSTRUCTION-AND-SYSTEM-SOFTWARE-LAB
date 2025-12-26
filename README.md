@@ -146,11 +146,11 @@ A comprehensive presentation on **Linker and Loader** covering the translation h
 
 Educational presentations and collaborative work:
 
-| # | Resource | Description | Research Link |
-|:-:|:---|:---|:-:|
-| 1 | SPCC Presentation | Linker & Loader architecture and functionality | [Presentation](http://dx.doi.org/10.13140/RG.2.2.10804.78729) |
-| 2 | [PPTX](Classwork/SPCC_PRESENTATION_B-50,51,58.pptx) | Original presentation file (PowerPoint) | — |
-| 3 | [PDF](Classwork/SPCC_PRESENTATION_B-50,51,58.pdf) | Presentation document version | — |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [SPCC Presentation](http://dx.doi.org/10.13140/RG.2.2.10804.78729) | Linker & Loader architecture and functionality |
+| 2 | [PPTX](Classwork/SPCC_PRESENTATION_B-50,51,58.pptx) | Original presentation file (PowerPoint) |
+| 3 | [PDF](Classwork/SPCC_PRESENTATION_B-50,51,58.pdf) | Presentation document version |
 
 ---
 
