@@ -261,7 +261,7 @@ Parser development using YACC tool for various grammatical structures.
 
   <br>
 
-  **[🏠 Back to Main Repository](../)**
+  🏠 **[Back to Main Repository](../)**
 
 </div>
 
