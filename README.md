@@ -105,9 +105,9 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date | Marks |
 |:-:|:---|:---|:---:|:---:|
-| 1 | [**Assignment 1**](Assignments/Amey_B-50_SPCC_Assignment-1.pdf) | System Programming Fundamentals, Error Recovery, Operator Precedence, Code Optimization, DAG | April 10, 2021 | 10/10 |
-| 2 | [**Assignment 2**](Assignments/Amey_B-50_SPCC_Assignment-2.pdf) | Forward Reference, Assemblers (Pass-I & Pass-II), Loaders, Direct Linking, Macro Processors | April 20, 2021 | 10/10 |
-| 3 | [**Assignment 3**](Assignments/Amey_B-50_SPCC_Assignment-3.pdf) | Case Study on Compiler Construction Tools (LEX and YACC) | April 30, 2021 | 10/10 |
+| 1 | [Assignment 1](Assignments/Amey_B-50_SPCC_Assignment-1.pdf) | System Programming Fundamentals, Error Recovery, Operator Precedence, Code Optimization, DAG | April 10, 2021 | 10/10 |
+| 2 | [Assignment 2](Assignments/Amey_B-50_SPCC_Assignment-2.pdf) | Forward Reference, Assemblers (Pass-I & Pass-II), Loaders, Direct Linking, Macro Processors | April 20, 2021 | 10/10 |
+| 3 | [Assignment 3](Assignments/Amey_B-50_SPCC_Assignment-3.pdf) | Case Study on Compiler Construction Tools (LEX and YACC) | April 30, 2021 | 10/10 |
 
 **Topics Covered**: System Programming Fundamentals · Error Recovery Techniques · Operator Precedence Parsing · Code Optimization · DAG Representation · Forward Reference Problem · Assembler PASS-I and PASS-II · Loaders and Direct Linking · Macro Processors · Compiler Construction Tools (LEX and YACC)
 
@@ -127,7 +127,7 @@ Academic assignments for comprehensive learning and practice:
 
 > [!IMPORTANT]
 > ### 🤝🏻 Special Acknowledgement
-> *Special thanks to [Mega Satish](https://github.com/msatmod) and [Hasan Rizvi](https://github.com/rizvihasan) for their meaningful contributions, support, and wisdom that helped shape this work.*
+> *Special thanks to **[Mega Satish](https://github.com/msatmod)** and **[Hasan Rizvi](https://github.com/rizvihasan)** for their meaningful contributions, support, and wisdom that helped shape this work.*
 
 ### Presentation Overview
 
@@ -148,7 +148,7 @@ Educational presentations and collaborative work:
 
 | # | Resource | Description | Research Link |
 |:-:|:---|:---|:-:|
-| 1 | **SPCC Presentation** | Linker & Loader architecture and functionality | [Presentation](http://dx.doi.org/10.13140/RG.2.2.10804.78729) |
+| 1 | SPCC Presentation | Linker & Loader architecture and functionality | [Presentation](http://dx.doi.org/10.13140/RG.2.2.10804.78729) |
 | 2 | [PPTX](Classwork/SPCC_PRESENTATION_B-50,51,58.pptx) | Original presentation file (PowerPoint) | — |
 | 3 | [PDF](Classwork/SPCC_PRESENTATION_B-50,51,58.pdf) | Presentation document version | — |
 
@@ -163,12 +163,12 @@ SPCC-specific quizzes conducted during the course:
 
 | # | Quiz | Topics | Date | Marks |
 |:-:|:---|:---|:---:|:---:|
-| 1 | [**Quiz 1**](Quizzes/Quiz%201%20-%20TE%20SPCC.pdf) | Introduction to System Softwares | April 13, 2021 | 10/10 |
-| 2 | **Quiz 2** | Assemblers and Symbol Table Management | — | 10/10 |
-| 3 | **Quiz 3** | Macro Processors, Linkers and Loaders | — | 10/10 |
-| 4 | **Quiz 4** | Compilers - Lexical Analysis | — | 10/10 |
-| 5 | **Quiz 5** | Compilers - Syntax Analysis and Parsing | — | 10/10 |
-| 6 | [**Quiz 6**](Quizzes/Quiz%206%20-%20TE%20SPCC.pdf) | Compiler Construction and Optimization | — | 10/10 |
+| 1 | [Quiz 1](Quizzes/Quiz%201%20-%20TE%20SPCC.pdf) | Introduction to System Softwares | April 13, 2021 | 10/10 |
+| 2 | Quiz 2 | Assemblers and Symbol Table Management | — | 10/10 |
+| 3 | Quiz 3 | Macro Processors, Linkers and Loaders | — | 10/10 |
+| 4 | Quiz 4 | Compilers - Lexical Analysis | — | 10/10 |
+| 5 | Quiz 5 | Compilers - Syntax Analysis and Parsing | — | 10/10 |
+| 6 | [Quiz 6](Quizzes/Quiz%206%20-%20TE%20SPCC.pdf) | Compiler Construction and Optimization | — | 10/10 |
 
 ---
 
@@ -487,9 +487,9 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
-Grateful acknowledgment to [Mega Satish](https://github.com/msatmod) for her exceptional support and collaboration during the laboratory experiments and classwork presentations of this course. Her constant support, patience, and clarity as we learned the fundamentals of System Programming and Compiler Construction together made a real difference. Working alongside her was truly enriching; her ability to simplify complex concepts and her steady encouragement turned challenging experiments into meaningful learning moments. This repository reflects the growth that came from our shared curiosity and mutual dedication to mastering the subject. Thank you, Mega, for being such an outstanding partner to learn with and for all the knowledge we shared along the way.
+Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** for her exceptional support and collaboration during the laboratory experiments and classwork presentations of this course. Her constant support, patience, and clarity as we learned the fundamentals of System Programming and Compiler Construction together made a real difference. Working alongside her was truly enriching; her ability to simplify complex concepts and her steady encouragement turned challenging experiments into meaningful learning moments. This repository reflects the growth that came from our shared curiosity and mutual dedication to mastering the subject. Thank you, Mega, for being such an outstanding partner to learn with and for all the knowledge we shared along the way.
 
-Grateful acknowledgment to [Hasan Rizvi](https://github.com/hasanrizvi-dev) for his valuable contributions and support during the classwork presentations of this course. His insights and collaborative spirit made the learning process more engaging and effective.
+Grateful acknowledgment to **[Hasan Rizvi](https://github.com/hasanrizvi-dev)** for his valuable contributions and support during the classwork presentations of this course. His insights and collaborative spirit made the learning process more engaging and effective.
 
 Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in System Programming and Compiler Construction. Their clear teaching and continued support helped develop a strong understanding of language processors and system software.
 
@@ -503,13 +503,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#system-programming-and-compiler-construction-and-system-software-laboratory)**
+  [↑ Back to Top](#system-programming-and-compiler-construction-and-system-software-laboratory)
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Classwork](#classwork)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Laboratory](#system-software-laboratory)** &nbsp;·&nbsp; **[Mock Test](#mock-test)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Classwork](#classwork) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#system-software-laboratory) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
-  **[System Software Laboratory](System%20Software%20Lab/README.md)**
+  🔬 **[System Software Laboratory](System%20Software%20Lab/README.md)**
 
 </div>
 
