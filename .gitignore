@@ -1,0 +1,57 @@
+# ALL REPOSITORIES
+# ----------------
+# General
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+*.tmp
+*.bak
+*~
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+
+# C / C++
+*.exe
+*.o
+*.obj
+*.dll
+*.out
+*.a
+*.so
+*.dylib
+Debug/
+Release/
+x64/
+x86/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Lex / Yacc (Generated source is often kept, but temp files ignored)
+y.output
+lex.yy.c
+y.tab.c
+y.tab.h
+
+# Assembly / SPCC specific output
+*.lst
+*.map
+
+# Git
+*.orig
