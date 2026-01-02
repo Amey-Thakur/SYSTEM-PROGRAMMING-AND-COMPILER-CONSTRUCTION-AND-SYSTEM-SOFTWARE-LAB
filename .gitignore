@@ -1,27 +1,23 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# System Programming and Compiler Construction - Academic Repository
+# Specialized .gitignore for compilers and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
 *.code-workspace
 
-# JetBrains
-.idea/
-*.iml
-
-# C / C++
+# C / C++ Build Artifacts
 *.exe
 *.o
 *.obj
@@ -35,7 +31,14 @@ Release/
 x64/
 x86/
 
-# Python
+# Java Build Artifacts
+*.class
+*.jar
+*.war
+*.ear
+*.ctxt
+
+# Python Build Artifacts
 __pycache__/
 *.py[cod]
 *$py.class
@@ -43,15 +46,29 @@ venv/
 env/
 .env
 
-# Lex / Yacc (Generated source is often kept, but temp files ignored)
+# Lex / Yacc (Intermediate generated files)
 y.output
 lex.yy.c
 y.tab.c
 y.tab.h
 
-# Assembly / SPCC specific output
+# Assembly / System Programming specific output
 *.lst
 *.map
 
-# Git
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
