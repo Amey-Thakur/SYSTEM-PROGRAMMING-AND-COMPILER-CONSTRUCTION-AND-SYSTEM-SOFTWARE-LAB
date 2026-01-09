@@ -491,7 +491,7 @@ Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** for her
 
 Grateful acknowledgment to **[Hasan Rizvi](https://github.com/hasanrizvi-dev)** for his valuable contributions and support during the classwork presentations of this course. His insights and collaborative spirit made the learning process more engaging and effective.
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in System Programming and Compiler Construction. Their clear teaching and continued support helped develop a strong understanding of language processors and system software.
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in System Programming and Compiler Construction. Their clear teaching and continued support helped develop a strong understanding of language processors and system software.
 
 Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
