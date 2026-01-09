@@ -35,7 +35,7 @@ System Programming and Compiler Construction (CSC602) and System Software Lab (C
 
 The curriculum encompasses several key domains in System Programming and Compiler Construction:
 
-- **Introduction to System Software**: Language processors, fundamental of language processing, data structures for language processing.
+- **Introduction to System Software**: Language processors, fundamentals of language processing, data structures for language processing.
 - **Assemblers**: Design of one-pass and two-pass assemblers, symbol table management.
 - **Macros and Macro Processors**: Macro definition and expansion, nested macro calls, design of macro processors.
 - **Linkers and Loaders**: Basic functions, relocation and linking concepts, design of direct-linking loaders.
@@ -109,7 +109,7 @@ Academic assignments for comprehensive learning and practice:
 | 2 | [Assignment 2](Assignments/Amey_B-50_SPCC_Assignment-2.pdf) | Forward Reference, Assemblers (Pass-I & Pass-II), Loaders, Direct Linking, Macro Processors | April 20, 2021 | 10/10 |
 | 3 | [Assignment 3](Assignments/Amey_B-50_SPCC_Assignment-3.pdf) | Case Study on Compiler Construction Tools (LEX and YACC) | April 30, 2021 | 10/10 |
 
-**Topics Covered**: System Programming Fundamentals · Error Recovery Techniques · Operator Precedence Parsing · Code Optimization · DAG Representation · Forward Reference Problem · Assembler PASS-I and PASS-II · Loaders and Direct Linking · Macro Processors · Compiler Construction Tools (LEX and YACC)
+**Topics Covered**: System Programming Fundamentals · Error Recovery Techniques · Operator Precedence Parsing · Code Optimization · DAG Representation · Forward Reference Problem · Assembler Pass-I and Pass-II · Loaders and Direct Linking · Macro Processors · Compiler Construction Tools (LEX and YACC)
 
 ---
 
@@ -483,7 +483,7 @@ This repository and all linked academic content are made available under the **C
 
 This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing System Programming and Compiler Construction & System Software Laboratory.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
