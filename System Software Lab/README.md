@@ -7,9 +7,9 @@
 
   ### CSL602 · Semester VI · Computer Engineering
 
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
-  [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#learning-path)
-  [![Language](https://img.shields.io/badge/Language-C%20%7C%20LEX%20%7C%20YACC-blueviolet.svg)](./)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
+  [![Documents](https://img.shields.io/badge/Documents-10-3949AB.svg)](#learning-path)
+  [![Language](https://img.shields.io/badge/Language-C%20%7C%20LEX%20%7C%20YACC-8250DF.svg)](./)
 
   **A comprehensive collection of laboratory experiments for System Programming and Compiler Construction, covering language processors, assemblers, macro processors, linkers, loaders, and compiler design tools.**
 

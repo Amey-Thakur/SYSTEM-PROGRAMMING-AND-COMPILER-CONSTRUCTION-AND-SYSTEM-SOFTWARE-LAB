@@ -10,9 +10,9 @@
   ### CSC602 & CSL602 · Semester VI · Computer Engineering
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   **A comprehensive academic resource for System Programming and Compiler Construction (SPCC) and System Software Laboratory (SSL), covering language processors, assembler design, macro processors, linker/loader functionality, and compiler design phases.**
 
@@ -182,9 +182,9 @@ The laboratory component (CSL602) focuses on hands-on implementation of system s
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](System%20Software%20Lab/)
-  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](System%20Software%20Lab/)
-  [![Language](https://img.shields.io/badge/Language-C%20%7C%20LEX%20%7C%20YACC-blueviolet.svg)](System%20Software%20Lab/)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-3949AB.svg)](System%20Software%20Lab/)
+  [![Status](https://img.shields.io/badge/Status-Complete-2EA043.svg)](System%20Software%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-C%20%7C%20LEX%20%7C%20YACC-8250DF.svg)](System%20Software%20Lab/)
 
 </div>
 
