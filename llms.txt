@@ -1,0 +1,45 @@
+# System Programming and Compiler Construction and System Software Laboratory
+
+> CSC602: System Programming and Compiler Construction [SPCC] & CSL602:
+> System Software Lab [SSL] | TE Semester VI | Computer Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Third Year, Semester VI
+Course codes: CSC602, CSL602
+Licence: CC BY 4.0, attribution required
+Repository created: 28 July 2021
+Work dated: 28 August 2021
+
+## What is in this repository
+
+- Assignments, 6 files
+- Classwork, 7 files
+- Internal Assessment Test, 6 files
+- Question Papers, 32 files
+- Quizzes, 2 files
+- Reference Books, 14 files
+- Semester Exam, 8 files
+- Submission Report, 2 files
+- Syllabus, 2 files
+- System Software Lab, 38 files
+- Blueprint (SPCC).png
+- Computer Semester 6 Timetable.pdf
+- SEMESTER VI.jpeg
+- Technical Mock Test- For Terna Engineering College by Campus Corners!.pdf
+
+## Subject terms
+
+compiler, compiler-construction, compiler-design, computer-engineering,
+computer-science, engineering, lex-yacc, lexical-analysis,
+programming-language, syntax-analysis, system-programming,
+system-programming-laboratory, system-software, three-address-code,
+university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
